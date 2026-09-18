@@ -1,0 +1,44 @@
+name: Scrape GitHub trending
+
+on:
+  schedule:
+    # 23:30 UTC = 06:30 Hanoi (UTC+7). Actions cron may lag by minutes.
+    - cron: "30 23 * * *"
+  workflow_dispatch:
+    inputs:
+      periods:
+        description: "Comma-separated: daily,weekly,monthly (blank = default)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests beautifulsoup4
+
+      - run: python scrape.py
+        env:
+          PERIODS: ${{ github.event.inputs.periods }}
+
+      - name: Commit data
+        run: |
+          git config user.name "trending-bot"
+          git config user.email "trending-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && echo "no changes" && exit 0
+          git commit -m "trending $(date -u +%F)"
+          git push
