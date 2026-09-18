@@ -1,0 +1,9 @@
+# Một slug ngôn ngữ mỗi dòng, theo URL của github.com/trending/<slug>
+# 'any' = trang tổng. Dòng bắt đầu bằng # bị bỏ qua.
+any
+typescript
+javascript
+python
+go
+rust
+c#
