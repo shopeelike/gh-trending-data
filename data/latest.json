@@ -1,6 +1,6 @@
 {
- "date": "2026-11-18",
- "generated_at": "2026-11-18T04:39:08+00:00",
+ "date": "2026-11-19",
+ "generated_at": "2026-11-19T04:22:42+00:00",
  "periods": [
   "daily",
   "weekly"
@@ -18,116 +18,94 @@
   {
    "period": "daily",
    "language": "any",
-   "count": 15
+   "count": 19
   },
   {
    "period": "daily",
    "language": "typescript",
-   "count": 17
+   "count": 16
   },
   {
    "period": "daily",
    "language": "javascript",
-   "count": 13
+   "count": 12
   },
   {
    "period": "daily",
    "language": "python",
-   "count": 16
+   "count": 18
   },
   {
    "period": "daily",
    "language": "go",
-   "count": 14
-  },
-  {
-   "period": "daily",
-   "language": "rust",
    "count": 16
   },
   {
    "period": "daily",
+   "language": "rust",
+   "count": 17
+  },
+  {
+   "period": "daily",
    "language": "c#",
-   "count": 12
+   "count": 13
   },
   {
    "period": "weekly",
    "language": "any",
-   "count": 14
+   "count": 15
   },
   {
    "period": "weekly",
    "language": "typescript",
-   "count": 17
+   "count": 16
   },
   {
    "period": "weekly",
    "language": "javascript",
-   "count": 10
+   "count": 13
   },
   {
    "period": "weekly",
    "language": "python",
-   "count": 17
+   "count": 15
   },
   {
    "period": "weekly",
    "language": "go",
-   "count": 17
+   "count": 15
   },
   {
    "period": "weekly",
    "language": "rust",
-   "count": 10
+   "count": 9
   },
   {
    "period": "weekly",
    "language": "c#",
-   "count": 17
+   "count": 16
   }
  ],
  "repos": [
   {
-   "full_name": "meta/astryx",
-   "description": "An open source design system that's fully customizable and agent ready",
-   "language": "TypeScript",
-   "stars": 30249,
-   "forks": 2360,
-   "gained": 8700,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "any",
-     "rank": 3,
-     "gained": 8700
-    },
-    {
-     "period": "weekly",
-     "language": "typescript",
-     "rank": 3,
-     "gained": 8700
-    }
-   ]
-  },
-  {
    "full_name": "GoogleChrome/modern-web-guidance-src",
    "description": "Keep your coding agent up to date with the latest web best practices",
    "language": "TypeScript",
-   "stars": 8509,
-   "forks": 729,
-   "gained": 7015,
+   "stars": 8890,
+   "forks": 742,
+   "gained": 7257,
    "appearances": [
     {
      "period": "weekly",
      "language": "any",
      "rank": 1,
-     "gained": 7015
+     "gained": 7257
     },
     {
      "period": "weekly",
      "language": "typescript",
      "rank": 1,
-     "gained": 7015
+     "gained": 7257
     }
    ]
   },
@@ -135,923 +113,49 @@
    "full_name": "dream-num/univer",
    "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
    "language": "TypeScript",
-   "stars": 29081,
-   "forks": 2626,
-   "gained": 1774,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "any",
-     "rank": 5,
-     "gained": 1774
-    },
-    {
-     "period": "daily",
-     "language": "typescript",
-     "rank": 1,
-     "gained": 1774
-    },
-    {
-     "period": "weekly",
-     "language": "typescript",
-     "rank": 11,
-     "gained": 5845
-    }
-   ]
-  },
-  {
-   "full_name": "sherlock-project/sherlock",
-   "description": "Hunt down social media accounts by username across social networks",
-   "language": "Python",
-   "stars": 113862,
-   "forks": 13101,
-   "gained": 5346,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "python",
-     "rank": 11,
-     "gained": 5346
-    }
-   ]
-  },
-  {
-   "full_name": "anthropics/skills",
-   "description": "Public repository for Agent Skills",
-   "language": "Python",
-   "stars": 196819,
-   "forks": 23068,
-   "gained": 4847,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "any",
-     "rank": 6,
-     "gained": 4847
-    },
-    {
-     "period": "weekly",
-     "language": "python",
-     "rank": 2,
-     "gained": 4847
-    }
-   ]
-  },
-  {
-   "full_name": "Leonxlnx/taste-skill",
-   "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-   "language": "JavaScript",
-   "stars": 117876,
-   "forks": 7888,
-   "gained": 4805,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "javascript",
-     "rank": 5,
-     "gained": 4805
-    }
-   ]
-  },
-  {
-   "full_name": "we-promise/sure",
-   "description": "The personal finance app for everyone (by everyone)",
-   "language": "Ruby",
-   "stars": 16301,
-   "forks": 1418,
-   "gained": 4786,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "any",
-     "rank": 4,
-     "gained": 4786
-    }
-   ]
-  },
-  {
-   "full_name": "milind-soni/OpenMausBot",
-   "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-   "language": "TypeScript",
-   "stars": 24910,
-   "forks": 3506,
-   "gained": 640,
+   "stars": 29925,
+   "forks": 2708,
+   "gained": 1152,
    "appearances": [
     {
      "period": "daily",
      "language": "typescript",
-     "rank": 11,
-     "gained": 640
-    },
-    {
-     "period": "weekly",
-     "language": "typescript",
-     "rank": 13,
-     "gained": 4284
-    }
-   ]
-  },
-  {
-   "full_name": "addyosmani/agent-skills",
-   "description": "Production-grade engineering skills for AI coding agents.",
-   "language": "JavaScript",
-   "stars": 118705,
-   "forks": 12377,
-   "gained": 3884,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "any",
      "rank": 14,
-     "gained": 3884
+     "gained": 1152
     },
     {
      "period": "weekly",
-     "language": "javascript",
-     "rank": 1,
-     "gained": 3884
-    }
-   ]
-  },
-  {
-   "full_name": "vercel-labs/agent-desktop",
-   "description": "Computer use CLI for AI agents",
-   "language": "Rust",
-   "stars": 25055,
-   "forks": 1877,
-   "gained": 3817,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "rust",
-     "rank": 5,
-     "gained": 3817
-    }
-   ]
-  },
-  {
-   "full_name": "google/elephant-goldfish-model",
-   "description": "Open-source plugin for designing and reviewing software with agents",
-   "language": "Python",
-   "stars": 20852,
-   "forks": 1537,
-   "gained": 3701,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "python",
-     "rank": 12,
-     "gained": 3701
-    }
-   ]
-  },
-  {
-   "full_name": "alibaba/open-code-review",
-   "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-   "language": "Go",
-   "stars": 53867,
-   "forks": 4438,
-   "gained": 763,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "any",
-     "rank": 3,
-     "gained": 763
-    },
-    {
-     "period": "daily",
-     "language": "go",
-     "rank": 1,
-     "gained": 763
-    },
-    {
-     "period": "weekly",
-     "language": "any",
-     "rank": 8,
-     "gained": 3675
-    },
-    {
-     "period": "weekly",
-     "language": "go",
-     "rank": 1,
-     "gained": 3675
-    }
-   ]
-  },
-  {
-   "full_name": "ZhuLinsen/daily_stock_analysis",
-   "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-   "language": "Python",
-   "stars": 73136,
-   "forks": 57807,
-   "gained": 3653,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "any",
-     "rank": 5,
-     "gained": 3653
-    },
-    {
-     "period": "weekly",
-     "language": "python",
-     "rank": 1,
-     "gained": 3653
-    }
-   ]
-  },
-  {
-   "full_name": "vercel-labs/agent-browser",
-   "description": "Browser automation CLI for AI agents",
-   "language": "Rust",
-   "stars": 52423,
-   "forks": 3663,
-   "gained": 3429,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "any",
-     "rank": 9,
-     "gained": 3429
-    },
-    {
-     "period": "weekly",
-     "language": "rust",
-     "rank": 1,
-     "gained": 3429
-    }
-   ]
-  },
-  {
-   "full_name": "Alishahryar1/free-claude-code",
-   "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-   "language": "Python",
-   "stars": 71113,
-   "forks": 11032,
-   "gained": 3235,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "python",
-     "rank": 17,
-     "gained": 3235
-    }
-   ]
-  },
-  {
-   "full_name": "tradermonty/claude-trading-skills",
-   "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-   "language": "Python",
-   "stars": 6906,
-   "forks": 1414,
-   "gained": 703,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "python",
-     "rank": 7,
-     "gained": 703
-    },
-    {
-     "period": "weekly",
-     "language": "any",
-     "rank": 11,
-     "gained": 2985
-    },
-    {
-     "period": "weekly",
-     "language": "python",
-     "rank": 4,
-     "gained": 2985
-    }
-   ]
-  },
-  {
-   "full_name": "ChromeDevTools/chrome-devtools-mcp",
-   "description": "Chrome DevTools for coding agents",
-   "language": "TypeScript",
-   "stars": 58079,
-   "forks": 4871,
-   "gained": 478,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "typescript",
-     "rank": 6,
-     "gained": 478
-    },
-    {
-     "period": "weekly",
-     "language": "any",
-     "rank": 10,
-     "gained": 2948
-    },
-    {
-     "period": "weekly",
-     "language": "typescript",
-     "rank": 4,
-     "gained": 2948
-    }
-   ]
-  },
-  {
-   "full_name": "backnotprop/plannotator",
-   "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-   "language": "TypeScript",
-   "stars": 13135,
-   "forks": 1316,
-   "gained": 691,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "any",
-     "rank": 11,
-     "gained": 691
-    },
-    {
-     "period": "daily",
-     "language": "typescript",
-     "rank": 5,
-     "gained": 691
-    },
-    {
-     "period": "weekly",
-     "language": "any",
-     "rank": 2,
-     "gained": 2926
-    },
-    {
-     "period": "weekly",
-     "language": "typescript",
-     "rank": 2,
-     "gained": 2926
-    }
-   ]
-  },
-  {
-   "full_name": "blader/humanizer",
-   "description": "Agent skill that removes signs of AI-generated writing from text",
-   "language": "Python",
-   "stars": 70466,
-   "forks": 5535,
-   "gained": 2866,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "python",
-     "rank": 10,
-     "gained": 2866
-    }
-   ]
-  },
-  {
-   "full_name": "ag-ui-protocol/ag-ui",
-   "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-   "language": "TypeScript",
-   "stars": 20097,
-   "forks": 2071,
-   "gained": 1445,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "any",
-     "rank": 10,
-     "gained": 1445
-    },
-    {
-     "period": "daily",
-     "language": "typescript",
-     "rank": 4,
-     "gained": 1445
-    },
-    {
-     "period": "weekly",
-     "language": "typescript",
-     "rank": 8,
-     "gained": 2773
-    }
-   ]
-  },
-  {
-   "full_name": "kajisho5/ffmpeg-skill",
-   "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
-   "language": "Python",
-   "stars": 7811,
-   "forks": 725,
-   "gained": 1292,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "python",
-     "rank": 8,
-     "gained": 1292
-    },
-    {
-     "period": "weekly",
-     "language": "python",
-     "rank": 8,
-     "gained": 2666
-    }
-   ]
-  },
-  {
-   "full_name": "openai/codex-security",
-   "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-   "language": "TypeScript",
-   "stars": 13989,
-   "forks": 1094,
-   "gained": 2531,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "any",
-     "rank": 13,
-     "gained": 2531
-    },
-    {
-     "period": "weekly",
-     "language": "typescript",
-     "rank": 6,
-     "gained": 2531
-    }
-   ]
-  },
-  {
-   "full_name": "elementalsouls/Claude-BugHunter",
-   "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-   "language": "Python",
-   "stars": 9645,
-   "forks": 1386,
-   "gained": 1005,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "any",
-     "rank": 1,
-     "gained": 1005
-    },
-    {
-     "period": "daily",
-     "language": "python",
-     "rank": 1,
-     "gained": 1005
-    },
-    {
-     "period": "weekly",
-     "language": "any",
-     "rank": 7,
-     "gained": 2508
-    },
-    {
-     "period": "weekly",
-     "language": "python",
-     "rank": 3,
-     "gained": 2508
-    }
-   ]
-  },
-  {
-   "full_name": "DeanChensj/jiangshan-map",
-   "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
-   "language": "JavaScript",
-   "stars": 7687,
-   "forks": 924,
-   "gained": 991,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "javascript",
-     "rank": 3,
-     "gained": 991
-    },
-    {
-     "period": "weekly",
-     "language": "javascript",
-     "rank": 6,
-     "gained": 2397
-    }
-   ]
-  },
-  {
-   "full_name": "JuliusBrussee/caveman",
-   "description": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
-   "language": "Go",
-   "stars": 121112,
-   "forks": 7075,
-   "gained": 318,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "go",
-     "rank": 4,
-     "gained": 318
-    },
-    {
-     "period": "weekly",
-     "language": "go",
-     "rank": 9,
-     "gained": 2293
-    }
-   ]
-  },
-  {
-   "full_name": "CopilotKit/OpenBot",
-   "description": "The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.",
-   "language": "TypeScript",
-   "stars": 12769,
-   "forks": 1583,
-   "gained": 2110,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "typescript",
-     "rank": 9,
-     "gained": 2110
-    }
-   ]
-  },
-  {
-   "full_name": "obra/superpowers",
-   "description": "An agentic skills framework & software development methodology that works.",
-   "language": "Shell",
-   "stars": 319465,
-   "forks": 28484,
-   "gained": 1917,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "any",
-     "rank": 9,
-     "gained": 1917
-    }
-   ]
-  },
-  {
-   "full_name": "ranxianglei/billion-context",
-   "description": "A context-compression plugin for month-long single sessions (billions of tokens) and small context windows (a 100K context is enough), billion-context is all you need .",
-   "language": "TypeScript",
-   "stars": 7798,
-   "forks": 624,
-   "gained": 1743,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "typescript",
-     "rank": 15,
-     "gained": 1743
-    }
-   ]
-  },
-  {
-   "full_name": "QwenLM/qwen-code",
-   "description": "An open-source AI coding agent that lives in your terminal.",
-   "language": "TypeScript",
-   "stars": 30734,
-   "forks": 3553,
-   "gained": 1603,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "typescript",
-     "rank": 7,
-     "gained": 1603
-    }
-   ]
-  },
-  {
-   "full_name": "homeassistant-ai/ha-mcp",
-   "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-   "language": "Python",
-   "stars": 7960,
-   "forks": 469,
-   "gained": 1568,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "python",
-     "rank": 7,
-     "gained": 1568
-    }
-   ]
-  },
-  {
-   "full_name": "mvanhorn/last30days-skill",
-   "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-   "language": "Python",
-   "stars": 69258,
-   "forks": 6158,
-   "gained": 696,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "any",
-     "rank": 2,
-     "gained": 696
-    },
-    {
-     "period": "daily",
-     "language": "python",
-     "rank": 2,
-     "gained": 696
-    },
-    {
-     "period": "weekly",
-     "language": "python",
-     "rank": 5,
-     "gained": 1548
-    }
-   ]
-  },
-  {
-   "full_name": "coreyhaines31/marketingskills",
-   "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-   "language": "JavaScript",
-   "stars": 61070,
-   "forks": 8901,
-   "gained": 237,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "javascript",
-     "rank": 9,
-     "gained": 237
-    },
-    {
-     "period": "weekly",
-     "language": "javascript",
-     "rank": 2,
-     "gained": 1476
-    }
-   ]
-  },
-  {
-   "full_name": "martin-olivier/airgorah",
-   "description": "A WiFi security auditing software",
-   "language": "Rust",
-   "stars": 6608,
-   "forks": 1093,
-   "gained": 1468,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "rust",
-     "rank": 8,
-     "gained": 1468
-    }
-   ]
-  },
-  {
-   "full_name": "NVIDIA/SkillSpector",
-   "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-   "language": "Python",
-   "stars": 26667,
-   "forks": 2376,
-   "gained": 1430,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "python",
-     "rank": 14,
-     "gained": 1430
-    }
-   ]
-  },
-  {
-   "full_name": "Anil-matcha/Open-Generative-AI",
-   "description": "Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-   "language": "JavaScript",
-   "stars": 35209,
-   "forks": 6760,
-   "gained": 1340,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "javascript",
-     "rank": 3,
-     "gained": 1340
-    }
-   ]
-  },
-  {
-   "full_name": "tailscale/tailcat",
-   "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-   "language": "Go",
-   "stars": 10064,
-   "forks": 467,
-   "gained": 1277,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "go",
-     "rank": 8,
-     "gained": 1277
-    }
-   ]
-  },
-  {
-   "full_name": "google-labs-code/stitch-skills",
-   "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-   "language": "TypeScript",
-   "stars": 10168,
-   "forks": 1335,
-   "gained": 350,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "any",
-     "rank": 7,
-     "gained": 350
-    },
-    {
-     "period": "daily",
-     "language": "typescript",
-     "rank": 2,
-     "gained": 350
-    },
-    {
-     "period": "weekly",
-     "language": "any",
-     "rank": 12,
-     "gained": 1197
-    },
-    {
-     "period": "weekly",
-     "language": "typescript",
-     "rank": 5,
-     "gained": 1197
-    }
-   ]
-  },
-  {
-   "full_name": "Jakeschincariol/instagram-agent-skill",
-   "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
-   "language": "Python",
-   "stars": 7000,
-   "forks": 1360,
-   "gained": 1160,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "python",
-     "rank": 15,
-     "gained": 1160
-    }
-   ]
-  },
-  {
-   "full_name": "louislam/uptime-kuma",
-   "description": "A fancy self-hosted monitoring tool",
-   "language": "JavaScript",
-   "stars": 94570,
-   "forks": 8866,
-   "gained": 1144,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "javascript",
-     "rank": 4,
-     "gained": 1144
-    }
-   ]
-  },
-  {
-   "full_name": "google-research/paper-orchestra",
-   "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-   "language": "Python",
-   "stars": 3249,
-   "forks": 431,
-   "gained": 1072,
-   "appearances": [
-    {
-     "period": "daily",
      "language": "any",
      "rank": 15,
-     "gained": 1072
-    },
-    {
-     "period": "daily",
-     "language": "python",
-     "rank": 4,
-     "gained": 1072
-    }
-   ]
-  },
-  {
-   "full_name": "stablyai/orca",
-   "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
-   "language": "TypeScript",
-   "stars": 128032,
-   "forks": 8114,
-   "gained": 1066,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "typescript",
-     "rank": 10,
-     "gained": 1066
-    }
-   ]
-  },
-  {
-   "full_name": "rustdesk/rustdesk",
-   "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-   "language": "Rust",
-   "stars": 129943,
-   "forks": 20845,
-   "gained": 1031,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "rust",
-     "rank": 9,
-     "gained": 1031
-    }
-   ]
-  },
-  {
-   "full_name": "multica-ai/multica",
-   "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
-   "language": "Go",
-   "stars": 56510,
-   "forks": 7450,
-   "gained": 980,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "go",
-     "rank": 14,
-     "gained": 980
-    }
-   ]
-  },
-  {
-   "full_name": "lobehub/lobehub",
-   "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
-   "language": "TypeScript",
-   "stars": 85728,
-   "forks": 16342,
-   "gained": 961,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "typescript",
-     "rank": 12,
-     "gained": 961
-    }
-   ]
-  },
-  {
-   "full_name": "ModernRelay/omnigraph",
-   "description": "Object-storage native graph database with branching and typed ontology",
-   "language": "Rust",
-   "stars": 2981,
-   "forks": 334,
-   "gained": 956,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "rust",
-     "rank": 6,
-     "gained": 956
-    }
-   ]
-  },
-  {
-   "full_name": "itsfatduck/optimizerDuck",
-   "description": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
-   "language": "C#",
-   "stars": 12470,
-   "forks": 547,
-   "gained": 537,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "c#",
-     "rank": 2,
-     "gained": 537
+     "gained": 6840
     },
     {
      "period": "weekly",
-     "language": "c#",
-     "rank": 2,
-     "gained": 900
+     "language": "typescript",
+     "rank": 8,
+     "gained": 6840
     }
    ]
   },
   {
-   "full_name": "crmne/zapfast",
-   "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
-   "language": "Rust",
-   "stars": 4695,
-   "forks": 473,
-   "gained": 888,
+   "full_name": "meta/astryx",
+   "description": "An open source design system that's fully customizable and agent ready",
+   "language": "TypeScript",
+   "stars": 30639,
+   "forks": 2400,
+   "gained": 6250,
    "appearances": [
     {
      "period": "weekly",
-     "language": "rust",
-     "rank": 7,
-     "gained": 888
+     "language": "any",
+     "rank": 3,
+     "gained": 6250
+    },
+    {
+     "period": "weekly",
+     "language": "typescript",
+     "rank": 3,
+     "gained": 6250
     }
    ]
   },
@@ -1059,407 +163,549 @@
    "full_name": "affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 305685,
-   "forks": 44990,
-   "gained": 883,
+   "stars": 306656,
+   "forks": 45146,
+   "gained": 1108,
    "appearances": [
     {
      "period": "daily",
      "language": "any",
-     "rank": 13,
-     "gained": 883
+     "rank": 15,
+     "gained": 1108
     },
     {
      "period": "daily",
      "language": "javascript",
-     "rank": 2,
-     "gained": 883
+     "rank": 3,
+     "gained": 1108
+    },
+    {
+     "period": "weekly",
+     "language": "javascript",
+     "rank": 10,
+     "gained": 5411
     }
    ]
   },
   {
-   "full_name": "NVIDIA/SkillEvaluator",
-   "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-   "language": "Python",
-   "stars": 3384,
-   "forks": 470,
-   "gained": 869,
+   "full_name": "Leonxlnx/taste-skill",
+   "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+   "language": "JavaScript",
+   "stars": 118529,
+   "forks": 7931,
+   "gained": 737,
    "appearances": [
     {
      "period": "daily",
+     "language": "javascript",
+     "rank": 8,
+     "gained": 737
+    },
+    {
+     "period": "weekly",
+     "language": "javascript",
+     "rank": 8,
+     "gained": 5013
+    }
+   ]
+  },
+  {
+   "full_name": "alibaba/open-code-review",
+   "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+   "language": "Go",
+   "stars": 54213,
+   "forks": 4486,
+   "gained": 622,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "go",
+     "rank": 2,
+     "gained": 622
+    },
+    {
+     "period": "weekly",
+     "language": "any",
+     "rank": 5,
+     "gained": 4383
+    },
+    {
+     "period": "weekly",
+     "language": "go",
+     "rank": 1,
+     "gained": 4383
+    }
+   ]
+  },
+  {
+   "full_name": "anthropics/skills",
+   "description": "Public repository for Agent Skills",
+   "language": "Python",
+   "stars": 197288,
+   "forks": 23106,
+   "gained": 4381,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "any",
+     "rank": 9,
+     "gained": 4381
+    },
+    {
+     "period": "weekly",
+     "language": "python",
+     "rank": 2,
+     "gained": 4381
+    }
+   ]
+  },
+  {
+   "full_name": "milind-soni/OpenMausBot",
+   "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+   "language": "TypeScript",
+   "stars": 25473,
+   "forks": 3607,
+   "gained": 4246,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "typescript",
+     "rank": 12,
+     "gained": 4246
+    }
+   ]
+  },
+  {
+   "full_name": "we-promise/sure",
+   "description": "The personal finance app for everyone (by everyone)",
+   "language": "Ruby",
+   "stars": 16529,
+   "forks": 1449,
+   "gained": 3866,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "any",
+     "rank": 4,
+     "gained": 3866
+    }
+   ]
+  },
+  {
+   "full_name": "ZhuLinsen/daily_stock_analysis",
+   "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+   "language": "Python",
+   "stars": 73393,
+   "forks": 57913,
+   "gained": 3566,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "any",
+     "rank": 10,
+     "gained": 3566
+    },
+    {
+     "period": "weekly",
+     "language": "python",
+     "rank": 3,
+     "gained": 3566
+    }
+   ]
+  },
+  {
+   "full_name": "addyosmani/agent-skills",
+   "description": "Production-grade engineering skills for AI coding agents.",
+   "language": "JavaScript",
+   "stars": 118987,
+   "forks": 12392,
+   "gained": 3331,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "javascript",
+     "rank": 3,
+     "gained": 3331
+    }
+   ]
+  },
+  {
+   "full_name": "backnotprop/plannotator",
+   "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+   "language": "TypeScript",
+   "stars": 13491,
+   "forks": 1358,
+   "gained": 392,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "typescript",
+     "rank": 6,
+     "gained": 392
+    },
+    {
+     "period": "weekly",
+     "language": "any",
+     "rank": 2,
+     "gained": 3290
+    },
+    {
+     "period": "weekly",
+     "language": "typescript",
+     "rank": 2,
+     "gained": 3290
+    }
+   ]
+  },
+  {
+   "full_name": "tradermonty/claude-trading-skills",
+   "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+   "language": "Python",
+   "stars": 7101,
+   "forks": 1440,
+   "gained": 3242,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "any",
+     "rank": 7,
+     "gained": 3242
+    },
+    {
+     "period": "weekly",
+     "language": "python",
+     "rank": 1,
+     "gained": 3242
+    }
+   ]
+  },
+  {
+   "full_name": "ag-ui-protocol/ag-ui",
+   "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+   "language": "TypeScript",
+   "stars": 20477,
+   "forks": 2106,
+   "gained": 513,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "typescript",
+     "rank": 8,
+     "gained": 513
+    },
+    {
+     "period": "weekly",
+     "language": "any",
+     "rank": 12,
+     "gained": 3221
+    },
+    {
+     "period": "weekly",
+     "language": "typescript",
+     "rank": 6,
+     "gained": 3221
+    }
+   ]
+  },
+  {
+   "full_name": "ChromeDevTools/chrome-devtools-mcp",
+   "description": "Chrome DevTools for coding agents",
+   "language": "TypeScript",
+   "stars": 58245,
+   "forks": 4878,
+   "gained": 3143,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "any",
+     "rank": 8,
+     "gained": 3143
+    },
+    {
+     "period": "weekly",
+     "language": "typescript",
+     "rank": 5,
+     "gained": 3143
+    }
+   ]
+  },
+  {
+   "full_name": "vercel-labs/agent-browser",
+   "description": "Browser automation CLI for AI agents",
+   "language": "Rust",
+   "stars": 52679,
+   "forks": 3687,
+   "gained": 2987,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "any",
+     "rank": 13,
+     "gained": 2987
+    },
+    {
+     "period": "weekly",
+     "language": "rust",
+     "rank": 1,
+     "gained": 2987
+    }
+   ]
+  },
+  {
+   "full_name": "blader/humanizer",
+   "description": "Agent skill that removes signs of AI-generated writing from text",
+   "language": "Python",
+   "stars": 70877,
+   "forks": 5562,
+   "gained": 2924,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "python",
+     "rank": 15,
+     "gained": 2924
+    }
+   ]
+  },
+  {
+   "full_name": "kajisho5/ffmpeg-skill",
+   "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+   "language": "Python",
+   "stars": 8058,
+   "forks": 757,
+   "gained": 338,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "python",
+     "rank": 7,
+     "gained": 338
+    },
+    {
+     "period": "weekly",
      "language": "python",
      "rank": 5,
-     "gained": 869
+     "gained": 2894
     }
    ]
   },
   {
-   "full_name": "DietrichGebert/ponytail",
-   "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-   "language": "JavaScript",
-   "stars": 193284,
-   "forks": 10861,
-   "gained": 862,
+   "full_name": "openai/codex-security",
+   "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+   "language": "TypeScript",
+   "stars": 14133,
+   "forks": 1103,
+   "gained": 2630,
    "appearances": [
     {
-     "period": "daily",
-     "language": "javascript",
-     "rank": 12,
-     "gained": 862
-    }
-   ]
-  },
-  {
-   "full_name": "getarcaneapp/arcane",
-   "description": "Modern Docker Management, Designed for Everyone",
-   "language": "Go",
-   "stars": 9413,
-   "forks": 517,
-   "gained": 618,
-   "appearances": [
-    {
-     "period": "daily",
+     "period": "weekly",
      "language": "any",
-     "rank": 6,
-     "gained": 618
-    },
-    {
-     "period": "daily",
-     "language": "go",
-     "rank": 3,
-     "gained": 618
-    },
-    {
-     "period": "weekly",
-     "language": "go",
-     "rank": 2,
-     "gained": 856
-    }
-   ]
-  },
-  {
-   "full_name": "garrytan/gbrain",
-   "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-   "language": "TypeScript",
-   "stars": 33239,
-   "forks": 4970,
-   "gained": 814,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "typescript",
      "rank": 14,
-     "gained": 814
-    }
-   ]
-  },
-  {
-   "full_name": "immich-app/immich",
-   "description": "High performance self-hosted photo and video management solution.",
-   "language": "TypeScript",
-   "stars": 119495,
-   "forks": 7641,
-   "gained": 806,
-   "appearances": [
+     "gained": 2630
+    },
     {
      "period": "weekly",
      "language": "typescript",
-     "rank": 16,
-     "gained": 806
-    }
-   ]
-  },
-  {
-   "full_name": "soxoj/maigret",
-   "description": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
-   "language": "Python",
-   "stars": 40870,
-   "forks": 3302,
-   "gained": 776,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "python",
-     "rank": 6,
-     "gained": 776
-    }
-   ]
-  },
-  {
-   "full_name": "block/buzz",
-   "description": "A hive mind communication platform",
-   "language": "Rust",
-   "stars": 37560,
-   "forks": 4956,
-   "gained": 759,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "rust",
-     "rank": 2,
-     "gained": 759
-    }
-   ]
-  },
-  {
-   "full_name": "agent-substrate/substrate",
-   "description": "Agent Substrate: the core system",
-   "language": "Go",
-   "stars": 7389,
-   "forks": 811,
-   "gained": 758,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "go",
-     "rank": 6,
-     "gained": 758
-    }
-   ]
-  },
-  {
-   "full_name": "pbakaus/impeccable",
-   "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-   "language": "Rust",
-   "stars": 112331,
-   "forks": 6697,
-   "gained": 748,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "rust",
-     "rank": 13,
-     "gained": 748
-    }
-   ]
-  },
-  {
-   "full_name": "GyulyVGC/sniffnet",
-   "description": "Comfortably monitor your network traffic 🕵️‍♂️",
-   "language": "Rust",
-   "stars": 43044,
-   "forks": 2022,
-   "gained": 730,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "rust",
-     "rank": 10,
-     "gained": 730
-    }
-   ]
-  },
-  {
-   "full_name": "mrdoob/three.js",
-   "description": "JavaScript 3D Library.",
-   "language": "JavaScript",
-   "stars": 118784,
-   "forks": 37024,
-   "gained": 725,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "javascript",
      "rank": 7,
-     "gained": 725
+     "gained": 2630
     }
    ]
   },
   {
-   "full_name": "davila7/claude-code-templates",
-   "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
-   "language": "Python",
-   "stars": 33934,
-   "forks": 4026,
-   "gained": 671,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "python",
-     "rank": 9,
-     "gained": 671
-    }
-   ]
-  },
-  {
-   "full_name": "Graphify-Labs/graphify",
-   "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-   "language": "Python",
-   "stars": 149741,
-   "forks": 14387,
-   "gained": 649,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "python",
-     "rank": 16,
-     "gained": 649
-    }
-   ]
-  },
-  {
-   "full_name": "FujiwaraChoki/supoclip",
-   "description": "An open-source OpusClip alternative",
-   "language": "Python",
-   "stars": 3458,
-   "forks": 776,
-   "gained": 627,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "python",
-     "rank": 13,
-     "gained": 627
-    }
-   ]
-  },
-  {
-   "full_name": "tokio-rs/topcoat",
-   "description": "A batteries-included framework for building web apps",
-   "language": "Rust",
-   "stars": 7252,
-   "forks": 313,
-   "gained": 627,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "rust",
-     "rank": 3,
-     "gained": 627
-    }
-   ]
-  },
-  {
-   "full_name": "tashfeenahmed/freellmapi",
-   "description": "10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-   "language": "TypeScript",
-   "stars": 54142,
-   "forks": 7609,
-   "gained": 613,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "typescript",
-     "rank": 8,
-     "gained": 613
-    }
-   ]
-  },
-  {
-   "full_name": "Tencent/LoopForge",
-   "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
-   "language": "Go",
-   "stars": 3410,
-   "forks": 461,
-   "gained": 591,
+   "full_name": "DeanChensj/jiangshan-map",
+   "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+   "language": "JavaScript",
+   "stars": 8106,
+   "forks": 991,
+   "gained": 218,
    "appearances": [
     {
      "period": "daily",
      "language": "any",
-     "rank": 4,
-     "gained": 591
+     "rank": 16,
+     "gained": 218
     },
     {
      "period": "daily",
-     "language": "go",
-     "rank": 2,
-     "gained": 591
+     "language": "javascript",
+     "rank": 4,
+     "gained": 218
+    },
+    {
+     "period": "weekly",
+     "language": "javascript",
+     "rank": 6,
+     "gained": 2476
     }
    ]
   },
   {
-   "full_name": "2dust/v2rayN",
-   "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
-   "language": "C#",
-   "stars": 120844,
-   "forks": 16349,
-   "gained": 574,
+   "full_name": "mvanhorn/last30days-skill",
+   "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "language": "Python",
+   "stars": 70170,
+   "forks": 6253,
+   "gained": 1059,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "any",
+     "rank": 3,
+     "gained": 1059
+    },
+    {
+     "period": "daily",
+     "language": "python",
+     "rank": 2,
+     "gained": 1059
+    },
+    {
+     "period": "weekly",
+     "language": "any",
+     "rank": 11,
+     "gained": 2423
+    },
+    {
+     "period": "weekly",
+     "language": "python",
+     "rank": 4,
+     "gained": 2423
+    }
+   ]
+  },
+  {
+   "full_name": "JuliusBrussee/caveman",
+   "description": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
+   "language": "Go",
+   "stars": 121350,
+   "forks": 7097,
+   "gained": 2320,
    "appearances": [
     {
      "period": "weekly",
-     "language": "c#",
-     "rank": 14,
-     "gained": 574
+     "language": "go",
+     "rank": 6,
+     "gained": 2320
     }
    ]
   },
   {
-   "full_name": "a2ui-project/a2ui",
-   "description": "Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.",
+   "full_name": "CopilotKit/OpenBot",
+   "description": "The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.",
    "language": "TypeScript",
-   "stars": 17576,
-   "forks": 1426,
-   "gained": 516,
+   "stars": 12885,
+   "forks": 1601,
+   "gained": 1901,
    "appearances": [
     {
      "period": "weekly",
      "language": "typescript",
-     "rank": 10,
-     "gained": 516
+     "rank": 11,
+     "gained": 1901
     }
    ]
   },
   {
-   "full_name": "vercel-labs/agent-skills",
-   "description": "Vercel's official collection of agent skills",
-   "language": "JavaScript",
-   "stars": 34405,
-   "forks": 2992,
-   "gained": 511,
+   "full_name": "google-labs-code/stitch-skills",
+   "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+   "language": "TypeScript",
+   "stars": 10460,
+   "forks": 1370,
+   "gained": 365,
    "appearances": [
     {
-     "period": "weekly",
-     "language": "javascript",
+     "period": "daily",
+     "language": "any",
      "rank": 9,
-     "gained": 511
+     "gained": 365
+    },
+    {
+     "period": "daily",
+     "language": "typescript",
+     "rank": 2,
+     "gained": 365
+    },
+    {
+     "period": "weekly",
+     "language": "any",
+     "rank": 6,
+     "gained": 1567
+    },
+    {
+     "period": "weekly",
+     "language": "typescript",
+     "rank": 4,
+     "gained": 1567
     }
    ]
   },
   {
-   "full_name": "ConardLi/garden-skills",
-   "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+   "full_name": "coreyhaines31/marketingskills",
+   "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
    "language": "JavaScript",
-   "stars": 15393,
-   "forks": 1745,
-   "gained": 500,
+   "stars": 61292,
+   "forks": 8941,
+   "gained": 1531,
    "appearances": [
     {
      "period": "weekly",
      "language": "javascript",
-     "rank": 8,
-     "gained": 500
+     "rank": 2,
+     "gained": 1531
     }
    ]
   },
   {
-   "full_name": "andrewyng/openworker",
-   "description": "",
+   "full_name": "martin-olivier/airgorah",
+   "description": "A WiFi security auditing software",
+   "language": "Rust",
+   "stars": 6656,
+   "forks": 1096,
+   "gained": 1528,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "rust",
+     "rank": 6,
+     "gained": 1528
+    }
+   ]
+  },
+  {
+   "full_name": "google-research/paper-orchestra",
+   "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
    "language": "Python",
-   "stars": 19430,
-   "forks": 2772,
-   "gained": 499,
+   "stars": 4431,
+   "forks": 548,
+   "gained": 1524,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "any",
+     "rank": 8,
+     "gained": 1524
+    },
+    {
+     "period": "daily",
+     "language": "python",
+     "rank": 4,
+     "gained": 1524
+    }
+   ]
+  },
+  {
+   "full_name": "NVIDIA/SkillSpector",
+   "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+   "language": "Python",
+   "stars": 26838,
+   "forks": 2392,
+   "gained": 1447,
    "appearances": [
     {
      "period": "weekly",
      "language": "python",
-     "rank": 16,
-     "gained": 499
-    }
-   ]
-  },
-  {
-   "full_name": "DuarteSantos8/openGym",
-   "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
-   "language": "JavaScript",
-   "stars": 22583,
-   "forks": 3000,
-   "gained": 487,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "javascript",
-     "rank": 4,
-     "gained": 487
+     "rank": 11,
+     "gained": 1447
     }
    ]
   },
@@ -1467,391 +713,87 @@
    "full_name": "sveltejs/svelte",
    "description": "web development for the rest of us",
    "language": "JavaScript",
-   "stars": 89643,
-   "forks": 6241,
-   "gained": 477,
+   "stars": 89655,
+   "forks": 6208,
+   "gained": 692,
    "appearances": [
     {
      "period": "daily",
      "language": "any",
-     "rank": 12,
-     "gained": 477
+     "rank": 10,
+     "gained": 692
     },
     {
      "period": "daily",
      "language": "javascript",
      "rank": 1,
-     "gained": 477
+     "gained": 692
+    },
+    {
+     "period": "weekly",
+     "language": "javascript",
+     "rank": 9,
+     "gained": 1433
     }
    ]
   },
   {
-   "full_name": "elder-plinius/G0DM0D3",
-   "description": "LIBERATED AI CHAT",
+   "full_name": "QwenLM/qwen-code",
+   "description": "An open-source AI coding agent that lives in your terminal.",
    "language": "TypeScript",
-   "stars": 12645,
-   "forks": 2921,
-   "gained": 91,
+   "stars": 30770,
+   "forks": 3557,
+   "gained": 1387,
    "appearances": [
     {
-     "period": "daily",
+     "period": "weekly",
      "language": "typescript",
      "rank": 9,
-     "gained": 91
+     "gained": 1387
+    }
+   ]
+  },
+  {
+   "full_name": "getarcaneapp/arcane",
+   "description": "Modern Docker Management, Designed for Everyone",
+   "language": "Go",
+   "stars": 9884,
+   "forks": 568,
+   "gained": 547,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "any",
+     "rank": 4,
+     "gained": 547
+    },
+    {
+     "period": "daily",
+     "language": "go",
+     "rank": 1,
+     "gained": 547
     },
     {
      "period": "weekly",
-     "language": "typescript",
-     "rank": 17,
-     "gained": 440
-    }
-   ]
-  },
-  {
-   "full_name": "docker/compose",
-   "description": "Define and run multi-container applications with Docker",
-   "language": "Go",
-   "stars": 39112,
-   "forks": 6087,
-   "gained": 406,
-   "appearances": [
-    {
-     "period": "weekly",
      "language": "go",
-     "rank": 13,
-     "gained": 406
-    }
-   ]
-  },
-  {
-   "full_name": "antithesishq/bombadil",
-   "description": "Property-based testing for web and terminal UIs",
-   "language": "Rust",
-   "stars": 2602,
-   "forks": 96,
-   "gained": 380,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "rust",
-     "rank": 4,
-     "gained": 380
-    }
-   ]
-  },
-  {
-   "full_name": "dotnet/skills",
-   "description": "Repository for skills to assist AI coding agents with .NET and C#",
-   "language": "C#",
-   "stars": 6265,
-   "forks": 498,
-   "gained": 380,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "c#",
-     "rank": 1,
-     "gained": 380
-    }
-   ]
-  },
-  {
-   "full_name": "expressjs/express",
-   "description": "Fast, unopinionated, minimalist web framework for node.",
-   "language": "JavaScript",
-   "stars": 69793,
-   "forks": 25686,
-   "gained": 375,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "javascript",
-     "rank": 10,
-     "gained": 375
-    }
-   ]
-  },
-  {
-   "full_name": "opensandbox-group/OpenSandbox",
-   "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-   "language": "Go",
-   "stars": 17500,
-   "forks": 1687,
-   "gained": 363,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "go",
-     "rank": 3,
-     "gained": 363
-    }
-   ]
-  },
-  {
-   "full_name": "gosom/google-maps-scraper",
-   "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
-   "language": "Go",
-   "stars": 8200,
-   "forks": 1308,
-   "gained": 345,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "go",
-     "rank": 5,
-     "gained": 345
-    }
-   ]
-  },
-  {
-   "full_name": "nightly-labs/openbot",
-   "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-   "language": "TypeScript",
-   "stars": 8717,
-   "forks": 841,
-   "gained": 343,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "typescript",
-     "rank": 15,
-     "gained": 343
-    }
-   ]
-  },
-  {
-   "full_name": "usestrix/strix",
-   "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-   "language": "Python",
-   "stars": 76372,
-   "forks": 8673,
-   "gained": 337,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "python",
-     "rank": 6,
-     "gained": 337
-    }
-   ]
-  },
-  {
-   "full_name": "trufflesecurity/trufflehog",
-   "description": "Find, verify, and analyze leaked credentials",
-   "language": "Go",
-   "stars": 29485,
-   "forks": 2777,
-   "gained": 328,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "go",
-     "rank": 4,
-     "gained": 328
-    }
-   ]
-  },
-  {
-   "full_name": "farion1231/cc-switch",
-   "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
-   "language": "Rust",
-   "stars": 155302,
-   "forks": 10160,
-   "gained": 315,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "rust",
      "rank": 2,
-     "gained": 315
+     "gained": 1372
     }
    ]
   },
   {
-   "full_name": "gitleaks/gitleaks",
-   "description": "Find secrets with Gitleaks 🔑",
-   "language": "Go",
-   "stars": 31146,
-   "forks": 2386,
-   "gained": 272,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "go",
-     "rank": 15,
-     "gained": 272
-    }
-   ]
-  },
-  {
-   "full_name": "citrolabs/ego-lite",
-   "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+   "full_name": "Anil-matcha/Open-Generative-AI",
+   "description": "Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
    "language": "JavaScript",
-   "stars": 23432,
-   "forks": 1330,
-   "gained": 251,
+   "stars": 35327,
+   "forks": 6791,
+   "gained": 1251,
    "appearances": [
     {
-     "period": "daily",
+     "period": "weekly",
      "language": "javascript",
-     "rank": 10,
-     "gained": 251
-    }
-   ]
-  },
-  {
-   "full_name": "MoFeng2223/BrimDeck",
-   "description": "A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.",
-   "language": "C#",
-   "stars": 803,
-   "forks": 84,
-   "gained": 250,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "c#",
-     "rank": 7,
-     "gained": 250
-    }
-   ]
-  },
-  {
-   "full_name": "builtbybel/FluentCleaner",
-   "description": "FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.",
-   "language": "C#",
-   "stars": 7262,
-   "forks": 247,
-   "gained": 247,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "c#",
-     "rank": 9,
-     "gained": 247
-    }
-   ]
-  },
-  {
-   "full_name": "ShareX/ShareX",
-   "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-   "language": "C#",
-   "stars": 41123,
-   "forks": 4089,
-   "gained": 219,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "c#",
-     "rank": 13,
-     "gained": 219
-    }
-   ]
-  },
-  {
-   "full_name": "runkids/skillshare",
-   "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.",
-   "language": "Go",
-   "stars": 3212,
-   "forks": 386,
-   "gained": 207,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "go",
-     "rank": 10,
-     "gained": 207
-    }
-   ]
-  },
-  {
-   "full_name": "cursor/plugins",
-   "description": "Cursor plugin specification and official plugins",
-   "language": "TypeScript",
-   "stars": 16954,
-   "forks": 1834,
-   "gained": 201,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "any",
-     "rank": 8,
-     "gained": 201
-    },
-    {
-     "period": "daily",
-     "language": "typescript",
-     "rank": 3,
-     "gained": 201
-    }
-   ]
-  },
-  {
-   "full_name": "jingyaogong/minimind",
-   "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-   "language": "Python",
-   "stars": 66145,
-   "forks": 8681,
-   "gained": 192,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "any",
-     "rank": 14,
-     "gained": 192
-    },
-    {
-     "period": "daily",
-     "language": "python",
-     "rank": 3,
-     "gained": 192
-    }
-   ]
-  },
-  {
-   "full_name": "Billionmail/BillionMail",
-   "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
-   "language": "Go",
-   "stars": 16409,
-   "forks": 1832,
-   "gained": 192,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "go",
-     "rank": 16,
-     "gained": 192
-    }
-   ]
-  },
-  {
-   "full_name": "hieunc229/mailflare",
-   "description": "Email for professionals and teams",
-   "language": "TypeScript",
-   "stars": 6918,
-   "forks": 1195,
-   "gained": 190,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "typescript",
-     "rank": 13,
-     "gained": 190
-    }
-   ]
-  },
-  {
-   "full_name": "navidrome/navidrome",
-   "description": "🎧 Your Personal Streaming Service",
-   "language": "Go",
-   "stars": 24822,
-   "forks": 1821,
-   "gained": 189,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "go",
-     "rank": 17,
-     "gained": 189
+     "rank": 1,
+     "gained": 1251
     }
    ]
   },
@@ -1859,315 +801,349 @@
    "full_name": "elie222/rakazo",
    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
    "language": "TypeScript",
-   "stars": 9051,
-   "forks": 1625,
-   "gained": 188,
+   "stars": 9155,
+   "forks": 1647,
+   "gained": 1230,
    "appearances": [
     {
-     "period": "daily",
+     "period": "weekly",
      "language": "typescript",
      "rank": 14,
-     "gained": 188
+     "gained": 1230
     }
    ]
   },
   {
-   "full_name": "zellij-org/zellij",
-   "description": "A terminal workspace with batteries included",
-   "language": "Rust",
-   "stars": 36124,
-   "forks": 1546,
-   "gained": 183,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "rust",
-     "rank": 4,
-     "gained": 183
-    }
-   ]
-  },
-  {
-   "full_name": "lodash/lodash",
-   "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
-   "language": "JavaScript",
-   "stars": 61449,
-   "forks": 7381,
-   "gained": 178,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "javascript",
-     "rank": 6,
-     "gained": 178
-    }
-   ]
-  },
-  {
-   "full_name": "kagent-dev/kagent",
-   "description": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
-   "language": "Go",
-   "stars": 4417,
-   "forks": 928,
-   "gained": 178,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "go",
-     "rank": 11,
-     "gained": 178
-    }
-   ]
-  },
-  {
-   "full_name": "anomalyco/hex",
-   "description": "Local voice dictation for mac, windows and linux",
-   "language": "Rust",
-   "stars": 7302,
-   "forks": 474,
-   "gained": 174,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "rust",
-     "rank": 7,
-     "gained": 174
-    }
-   ]
-  },
-  {
-   "full_name": "BeyondDimension/SteamTools",
-   "description": "🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。",
-   "language": "C#",
-   "stars": 27623,
-   "forks": 1761,
-   "gained": 166,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "c#",
-     "rank": 11,
-     "gained": 166
-    }
-   ]
-  },
-  {
-   "full_name": "virgiliojr94/book-to-skill",
-   "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-   "language": "Python",
-   "stars": 38309,
-   "forks": 4076,
-   "gained": 160,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "python",
-     "rank": 10,
-     "gained": 160
-    }
-   ]
-  },
-  {
-   "full_name": "Devolutions/UniGetUI",
-   "description": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
-   "language": "C#",
-   "stars": 27096,
-   "forks": 983,
-   "gained": 30,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "c#",
-     "rank": 6,
-     "gained": 30
-    },
-    {
-     "period": "weekly",
-     "language": "c#",
-     "rank": 6,
-     "gained": 151
-    }
-   ]
-  },
-  {
-   "full_name": "PowerShell/PowerShell",
-   "description": "PowerShell for every system!",
-   "language": "C#",
-   "stars": 56221,
-   "forks": 8544,
-   "gained": 151,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "c#",
-     "rank": 4,
-     "gained": 151
-    }
-   ]
-  },
-  {
-   "full_name": "cli/cli",
-   "description": "GitHub’s official command line tool",
-   "language": "Go",
-   "stars": 47067,
-   "forks": 9411,
-   "gained": 148,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "go",
-     "rank": 7,
-     "gained": 148
-    }
-   ]
-  },
-  {
-   "full_name": "huiyadanli/RevokeMsgPatcher",
-   "description": "A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）",
-   "language": "C#",
-   "stars": 39295,
-   "forks": 4110,
-   "gained": 140,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "c#",
-     "rank": 5,
-     "gained": 140
-    }
-   ]
-  },
-  {
-   "full_name": "umlx5h/LLPlayer",
-   "description": "The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!",
-   "language": "C#",
-   "stars": 4748,
-   "forks": 306,
-   "gained": 125,
-   "appearances": [
-    {
-     "period": "weekly",
-     "language": "c#",
-     "rank": 16,
-     "gained": 125
-    }
-   ]
-  },
-  {
-   "full_name": "t8y2/dbx",
-   "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-   "language": "Rust",
-   "stars": 30672,
-   "forks": 2793,
-   "gained": 112,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "rust",
-     "rank": 3,
-     "gained": 112
-    }
-   ]
-  },
-  {
-   "full_name": "Minglink/dsh-infinite-gen-5",
-   "description": "DeepSeek v4.1 flash 最强逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进",
-   "language": "JavaScript",
-   "stars": 4484,
-   "forks": 620,
-   "gained": 108,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "javascript",
-     "rank": 11,
-     "gained": 108
-    }
-   ]
-  },
-  {
-   "full_name": "lnkiai/m3e-canvas",
-   "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+   "full_name": "pingdotgg/t3code",
+   "description": "The best way to control Claude Code, Codex and more from any computer or phone",
    "language": "TypeScript",
-   "stars": 10573,
-   "forks": 1184,
-   "gained": 103,
+   "stars": 65414,
+   "forks": 11463,
+   "gained": 1220,
    "appearances": [
     {
      "period": "daily",
      "language": "typescript",
-     "rank": 17,
-     "gained": 103
+     "rank": 15,
+     "gained": 1220
     }
    ]
   },
   {
-   "full_name": "3441293738/creatorhub",
-   "description": "多平台内容监控·采集·搬运 一个 Web 面板管起抖音 / 小红书 / 快手 / 视频号 / TikTok",
-   "language": "Python",
-   "stars": 3643,
-   "forks": 712,
-   "gained": 100,
+   "full_name": "louislam/uptime-kuma",
+   "description": "A fancy self-hosted monitoring tool",
+   "language": "JavaScript",
+   "stars": 94618,
+   "forks": 8874,
+   "gained": 1140,
    "appearances": [
     {
-     "period": "daily",
-     "language": "python",
-     "rank": 14,
-     "gained": 100
+     "period": "weekly",
+     "language": "javascript",
+     "rank": 5,
+     "gained": 1140
     }
    ]
   },
   {
-   "full_name": "ppy/osu",
-   "description": "rhythm is just a *click* away!",
+   "full_name": "itsfatduck/optimizerDuck",
+   "description": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
    "language": "C#",
-   "stars": 19477,
-   "forks": 2901,
-   "gained": 22,
+   "stars": 12694,
+   "forks": 561,
+   "gained": 311,
    "appearances": [
     {
      "period": "daily",
      "language": "c#",
      "rank": 1,
-     "gained": 22
+     "gained": 311
     },
     {
      "period": "weekly",
      "language": "c#",
-     "rank": 3,
-     "gained": 95
+     "rank": 2,
+     "gained": 1135
     }
    ]
   },
   {
-   "full_name": "a-ghorbani/pocketpal-ai",
-   "description": "An app that brings language models directly to your phone.",
-   "language": "TypeScript",
-   "stars": 9548,
-   "forks": 1145,
-   "gained": 94,
+   "full_name": "agent-substrate/substrate",
+   "description": "Agent Substrate: the core system",
+   "language": "Go",
+   "stars": 7649,
+   "forks": 841,
+   "gained": 377,
    "appearances": [
     {
      "period": "daily",
+     "language": "go",
+     "rank": 7,
+     "gained": 377
+    },
+    {
+     "period": "weekly",
+     "language": "go",
+     "rank": 3,
+     "gained": 1092
+    }
+   ]
+  },
+  {
+   "full_name": "ModernRelay/omnigraph",
+   "description": "Object-storage native graph database with branching and typed ontology",
+   "language": "Rust",
+   "stars": 3064,
+   "forks": 337,
+   "gained": 1045,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "rust",
+     "rank": 2,
+     "gained": 1045
+    }
+   ]
+  },
+  {
+   "full_name": "hieunc229/mailflare",
+   "description": "Email for professionals and teams",
+   "language": "TypeScript",
+   "stars": 7127,
+   "forks": 1233,
+   "gained": 991,
+   "appearances": [
+    {
+     "period": "weekly",
      "language": "typescript",
      "rank": 16,
-     "gained": 94
+     "gained": 991
     }
    ]
   },
   {
-   "full_name": "hanliang97/MatrixMedia",
-   "description": "视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli",
-   "language": "JavaScript",
-   "stars": 1546,
-   "forks": 235,
-   "gained": 92,
+   "full_name": "homeassistant-ai/ha-mcp",
+   "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+   "language": "Python",
+   "stars": 7988,
+   "forks": 473,
+   "gained": 965,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "python",
+     "rank": 8,
+     "gained": 965
+    }
+   ]
+  },
+  {
+   "full_name": "openai/whisper",
+   "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+   "language": "Python",
+   "stars": 113021,
+   "forks": 13692,
+   "gained": 197,
    "appearances": [
     {
      "period": "daily",
+     "language": "python",
+     "rank": 10,
+     "gained": 197
+    },
+    {
+     "period": "weekly",
+     "language": "python",
+     "rank": 13,
+     "gained": 910
+    }
+   ]
+  },
+  {
+   "full_name": "golang/go",
+   "description": "The Go programming language",
+   "language": "Go",
+   "stars": 140028,
+   "forks": 20257,
+   "gained": 150,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "go",
+     "rank": 5,
+     "gained": 150
+    },
+    {
+     "period": "weekly",
+     "language": "go",
+     "rank": 14,
+     "gained": 840
+    }
+   ]
+  },
+  {
+   "full_name": "lobehub/lobehub",
+   "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
+   "language": "TypeScript",
+   "stars": 85815,
+   "forks": 16351,
+   "gained": 829,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "typescript",
+     "rank": 13,
+     "gained": 829
+    }
+   ]
+  },
+  {
+   "full_name": "obra/superpowers",
+   "description": "An agentic skills framework & software development methodology that works.",
+   "language": "Shell",
+   "stars": 321426,
+   "forks": 28569,
+   "gained": 822,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "any",
+     "rank": 14,
+     "gained": 822
+    }
+   ]
+  },
+  {
+   "full_name": "Tencent/LoopForge",
+   "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+   "language": "Go",
+   "stars": 3862,
+   "forks": 549,
+   "gained": 821,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "go",
+     "rank": 4,
+     "gained": 821
+    }
+   ]
+  },
+  {
+   "full_name": "react/react",
+   "description": "The library for web and native user interfaces.",
+   "language": "JavaScript",
+   "stars": 252718,
+   "forks": 52805,
+   "gained": 771,
+   "appearances": [
+    {
+     "period": "weekly",
      "language": "javascript",
+     "rank": 11,
+     "gained": 771
+    }
+   ]
+  },
+  {
+   "full_name": "jingyaogong/minimind",
+   "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+   "language": "Python",
+   "stars": 66525,
+   "forks": 8736,
+   "gained": 687,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "python",
      "rank": 8,
-     "gained": 92
+     "gained": 687
+    }
+   ]
+  },
+  {
+   "full_name": "FujiwaraChoki/supoclip",
+   "description": "An open-source OpusClip alternative",
+   "language": "Python",
+   "stars": 3575,
+   "forks": 809,
+   "gained": 682,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "python",
+     "rank": 9,
+     "gained": 682
+    }
+   ]
+  },
+  {
+   "full_name": "davila7/claude-code-templates",
+   "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
+   "language": "Python",
+   "stars": 33982,
+   "forks": 4041,
+   "gained": 675,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "python",
+     "rank": 6,
+     "gained": 675
+    }
+   ]
+  },
+  {
+   "full_name": "block/buzz",
+   "description": "A hive mind communication platform",
+   "language": "Rust",
+   "stars": 37583,
+   "forks": 4960,
+   "gained": 658,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "rust",
+     "rank": 3,
+     "gained": 658
+    }
+   ]
+  },
+  {
+   "full_name": "crmne/zapfast",
+   "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
+   "language": "Rust",
+   "stars": 4740,
+   "forks": 477,
+   "gained": 646,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "rust",
+     "rank": 7,
+     "gained": 646
+    }
+   ]
+  },
+  {
+   "full_name": "docker/compose",
+   "description": "Define and run multi-container applications with Docker",
+   "language": "Go",
+   "stars": 38959,
+   "forks": 6038,
+   "gained": 173,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "go",
+     "rank": 3,
+     "gained": 173
+    },
+    {
+     "period": "weekly",
+     "language": "go",
+     "rank": 8,
+     "gained": 605
     }
    ]
   },
@@ -2175,309 +1151,711 @@
    "full_name": "ComposioHQ/awesome-claude-skills",
    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
    "language": "Python",
-   "stars": 79756,
-   "forks": 9770,
-   "gained": 85,
+   "stars": 79832,
+   "forks": 9786,
+   "gained": 604,
    "appearances": [
     {
-     "period": "daily",
+     "period": "weekly",
      "language": "python",
-     "rank": 11,
-     "gained": 85
+     "rank": 14,
+     "gained": 604
     }
    ]
   },
   {
-   "full_name": "BurntSushi/jiff",
-   "description": "A datetime library for Rust that encourages you to jump into the pit of success.",
-   "language": "Rust",
-   "stars": 3182,
-   "forks": 141,
-   "gained": 81,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "rust",
-     "rank": 1,
-     "gained": 81
-    }
-   ]
-  },
-  {
-   "full_name": "QuantumNous/new-api",
-   "description": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
-   "language": "Go",
-   "stars": 52115,
-   "forks": 12724,
-   "gained": 79,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "go",
-     "rank": 10,
-     "gained": 79
-    }
-   ]
-  },
-  {
-   "full_name": "Tyrrrz/YoutubeDownloader",
-   "description": "Downloads videos and playlists from YouTube",
+   "full_name": "2dust/v2rayN",
+   "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
    "language": "C#",
-   "stars": 16753,
-   "forks": 2112,
-   "gained": 77,
+   "stars": 120925,
+   "forks": 16360,
+   "gained": 576,
    "appearances": [
     {
      "period": "weekly",
      "language": "c#",
-     "rank": 8,
-     "gained": 77
+     "rank": 5,
+     "gained": 576
     }
    ]
   },
   {
-   "full_name": "guohuiyuan/go-music-dl",
-   "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
+   "full_name": "soxoj/maigret",
+   "description": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
+   "language": "Python",
+   "stars": 40901,
+   "forks": 3305,
+   "gained": 571,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "python",
+     "rank": 7,
+     "gained": 571
+    }
+   ]
+  },
+  {
+   "full_name": "a2ui-project/a2ui",
+   "description": "Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.",
+   "language": "TypeScript",
+   "stars": 17619,
+   "forks": 1428,
+   "gained": 557,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "typescript",
+     "rank": 10,
+     "gained": 557
+    }
+   ]
+  },
+  {
+   "full_name": "astral-sh/ruff",
+   "description": "An extremely fast Python linter and code formatter, written in Rust.",
+   "language": "Rust",
+   "stars": 51269,
+   "forks": 2761,
+   "gained": 120,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "rust",
+     "rank": 12,
+     "gained": 120
+    },
+    {
+     "period": "weekly",
+     "language": "rust",
+     "rank": 8,
+     "gained": 554
+    }
+   ]
+  },
+  {
+   "full_name": "p-e-w/heretic",
+   "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+   "language": "Python",
+   "stars": 42024,
+   "forks": 5165,
+   "gained": 515,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "python",
+     "rank": 6,
+     "gained": 515
+    }
+   ]
+  },
+  {
+   "full_name": "andrewyng/openworker",
+   "description": "",
+   "language": "Python",
+   "stars": 19449,
+   "forks": 2778,
+   "gained": 479,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "python",
+     "rank": 12,
+     "gained": 479
+    }
+   ]
+  },
+  {
+   "full_name": "XiaoYouChR/Ghost-Downloader-3",
+   "description": "The only downloader you need. 下载器的集大成者。",
+   "language": "Python",
+   "stars": 12184,
+   "forks": 767,
+   "gained": 432,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "python",
+     "rank": 9,
+     "gained": 432
+    }
+   ]
+  },
+  {
+   "full_name": "jquery/jquery",
+   "description": "jQuery JavaScript Library",
+   "language": "JavaScript",
+   "stars": 60029,
+   "forks": 20709,
+   "gained": 266,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "any",
+     "rank": 11,
+     "gained": 266
+    },
+    {
+     "period": "daily",
+     "language": "javascript",
+     "rank": 2,
+     "gained": 266
+    },
+    {
+     "period": "weekly",
+     "language": "javascript",
+     "rank": 4,
+     "gained": 420
+    }
+   ]
+  },
+  {
+   "full_name": "HKUDS/CLI-Anything",
+   "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+   "language": "Python",
+   "stars": 59906,
+   "forks": 5437,
+   "gained": 389,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "any",
+     "rank": 2,
+     "gained": 389
+    },
+    {
+     "period": "daily",
+     "language": "python",
+     "rank": 1,
+     "gained": 389
+    }
+   ]
+  },
+  {
+   "full_name": "opensandbox-group/OpenSandbox",
+   "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
    "language": "Go",
-   "stars": 6556,
-   "forks": 622,
-   "gained": 71,
+   "stars": 17620,
+   "forks": 1700,
+   "gained": 106,
    "appearances": [
     {
      "period": "daily",
      "language": "go",
-     "rank": 8,
-     "gained": 71
+     "rank": 6,
+     "gained": 106
+    },
+    {
+     "period": "weekly",
+     "language": "go",
+     "rank": 4,
+     "gained": 380
     }
    ]
   },
   {
-   "full_name": "Radarr/Radarr",
-   "description": "Movie organizer/manager for usenet and torrent users.",
+   "full_name": "axios/axios",
+   "description": "Promise based HTTP client for the browser and node.js",
+   "language": "JavaScript",
+   "stars": 109356,
+   "forks": 12110,
+   "gained": 111,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "javascript",
+     "rank": 7,
+     "gained": 111
+    },
+    {
+     "period": "weekly",
+     "language": "javascript",
+     "rank": 7,
+     "gained": 375
+    }
+   ]
+  },
+  {
+   "full_name": "dotnet/skills",
+   "description": "Repository for skills to assist AI coding agents with .NET and C#",
    "language": "C#",
-   "stars": 14810,
-   "forks": 1264,
-   "gained": 14,
+   "stars": 6280,
+   "forks": 500,
+   "gained": 337,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "c#",
+     "rank": 1,
+     "gained": 337
+    }
+   ]
+  },
+  {
+   "full_name": "builtbybel/FluentCleaner",
+   "description": "FluentCleaner is the transparent, community-powered CCleaner alternative for Windows.",
+   "language": "C#",
+   "stars": 7364,
+   "forks": 250,
+   "gained": 112,
    "appearances": [
     {
      "period": "daily",
      "language": "c#",
-     "rank": 3,
-     "gained": 14
+     "rank": 4,
+     "gained": 112
     },
     {
      "period": "weekly",
      "language": "c#",
-     "rank": 15,
-     "gained": 70
+     "rank": 7,
+     "gained": 327
     }
    ]
   },
   {
-   "full_name": "aliyun/ai-agent-handbook",
-   "description": "A practical guide to building enterprise AI agents across their full lifecycle.",
+   "full_name": "n8n-io/n8n",
+   "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+   "language": "TypeScript",
+   "stars": 211177,
+   "forks": 61573,
+   "gained": 325,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "any",
+     "rank": 17,
+     "gained": 325
+    },
+    {
+     "period": "daily",
+     "language": "typescript",
+     "rank": 4,
+     "gained": 325
+    }
+   ]
+  },
+  {
+   "full_name": "cursor/plugins",
+   "description": "Cursor plugin specification and official plugins",
+   "language": "TypeScript",
+   "stars": 17286,
+   "forks": 1908,
+   "gained": 314,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "any",
+     "rank": 1,
+     "gained": 314
+    },
+    {
+     "period": "daily",
+     "language": "typescript",
+     "rank": 1,
+     "gained": 314
+    }
+   ]
+  },
+  {
+   "full_name": "NVIDIA/SkillEvaluator",
+   "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+   "language": "Python",
+   "stars": 3816,
+   "forks": 523,
+   "gained": 312,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "any",
+     "rank": 5,
+     "gained": 312
+    },
+    {
+     "period": "daily",
+     "language": "python",
+     "rank": 3,
+     "gained": 312
+    }
+   ]
+  },
+  {
+   "full_name": "trufflesecurity/trufflehog",
+   "description": "Find, verify, and analyze leaked credentials",
+   "language": "Go",
+   "stars": 29522,
+   "forks": 2782,
+   "gained": 308,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "go",
+     "rank": 11,
+     "gained": 308
+    }
+   ]
+  },
+  {
+   "full_name": "astral-sh/uv",
+   "description": "An extremely fast Python package and project manager, written in Rust.",
+   "language": "Rust",
+   "stars": 92272,
+   "forks": 3924,
+   "gained": 258,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "any",
+     "rank": 7,
+     "gained": 258
+    },
+    {
+     "period": "daily",
+     "language": "rust",
+     "rank": 1,
+     "gained": 258
+    }
+   ]
+  },
+  {
+   "full_name": "DuarteSantos8/openGym",
+   "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
    "language": "JavaScript",
-   "stars": 3458,
-   "forks": 428,
-   "gained": 69,
+   "stars": 22771,
+   "forks": 3029,
+   "gained": 257,
    "appearances": [
     {
      "period": "daily",
      "language": "javascript",
-     "rank": 13,
-     "gained": 69
+     "rank": 5,
+     "gained": 257
     }
    ]
   },
   {
-   "full_name": "evcc-io/evcc",
-   "description": "smart charging ☀️🚘",
+   "full_name": "MoFeng2223/BrimDeck",
+   "description": "A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.",
+   "language": "C#",
+   "stars": 826,
+   "forks": 86,
+   "gained": 251,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "c#",
+     "rank": 9,
+     "gained": 251
+    }
+   ]
+  },
+  {
+   "full_name": "nvm-sh/nvm",
+   "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+   "language": "Shell",
+   "stars": 96168,
+   "forks": 10781,
+   "gained": 237,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "any",
+     "rank": 6,
+     "gained": 237
+    }
+   ]
+  },
+  {
+   "full_name": "Vincentwei1021/video-shotcraft",
+   "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
+   "language": "TypeScript",
+   "stars": 21392,
+   "forks": 1974,
+   "gained": 237,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "typescript",
+     "rank": 13,
+     "gained": 237
+    }
+   ]
+  },
+  {
+   "full_name": "ethanplusai/sellbird",
+   "description": "Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.",
+   "language": "Python",
+   "stars": 6534,
+   "forks": 1346,
+   "gained": 237,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "python",
+     "rank": 18,
+     "gained": 237
+    }
+   ]
+  },
+  {
+   "full_name": "appwrite/appwrite",
+   "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+   "language": "TypeScript",
+   "stars": 58269,
+   "forks": 5884,
+   "gained": 232,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "any",
+     "rank": 12,
+     "gained": 232
+    },
+    {
+     "period": "daily",
+     "language": "typescript",
+     "rank": 3,
+     "gained": 232
+    }
+   ]
+  },
+  {
+   "full_name": "nestjs/nest",
+   "description": "A progressive TypeScript framework for Node.js backends: from a small API in one file to efficient, scalable, enterprise-grade systems 🚀",
+   "language": "TypeScript",
+   "stars": 77084,
+   "forks": 8716,
+   "gained": 214,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "typescript",
+     "rank": 9,
+     "gained": 214
+    }
+   ]
+  },
+  {
+   "full_name": "huggingface/transformers",
+   "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+   "language": "Python",
+   "stars": 169198,
+   "forks": 35229,
+   "gained": 205,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "python",
+     "rank": 5,
+     "gained": 205
+    }
+   ]
+  },
+  {
+   "full_name": "tokio-rs/topcoat",
+   "description": "A batteries-included framework for building web apps",
+   "language": "Rust",
+   "stars": 7266,
+   "forks": 312,
+   "gained": 202,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "rust",
+     "rank": 5,
+     "gained": 202
+    }
+   ]
+  },
+  {
+   "full_name": "Billionmail/BillionMail",
+   "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
    "language": "Go",
-   "stars": 7628,
-   "forks": 1642,
-   "gained": 61,
+   "stars": 16421,
+   "forks": 1833,
+   "gained": 200,
    "appearances": [
     {
      "period": "weekly",
      "language": "go",
      "rank": 12,
-     "gained": 61
+     "gained": 200
     }
    ]
   },
   {
-   "full_name": "MiniMax-AI/skills",
-   "description": "",
-   "language": "C#",
-   "stars": 13863,
-   "forks": 1212,
-   "gained": 60,
+   "full_name": "runkids/skillshare",
+   "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.",
+   "language": "Go",
+   "stars": 3231,
+   "forks": 388,
+   "gained": 193,
    "appearances": [
     {
      "period": "weekly",
-     "language": "c#",
-     "rank": 12,
-     "gained": 60
-    }
-   ]
-  },
-  {
-   "full_name": "ShayanAbbas1/dbdelve",
-   "description": "Fast and lightweight DB Client made in Rust and GPUI.",
-   "language": "Rust",
-   "stars": 1559,
-   "forks": 89,
-   "gained": 59,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "rust",
-     "rank": 15,
-     "gained": 59
-    }
-   ]
-  },
-  {
-   "full_name": "poteto/hiring-without-whiteboards",
-   "description": "⭐️ Companies that don't have a broken hiring process",
-   "language": "JavaScript",
-   "stars": 53369,
-   "forks": 3987,
-   "gained": 56,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "javascript",
+     "language": "go",
      "rank": 5,
-     "gained": 56
+     "gained": 193
     }
    ]
   },
   {
-   "full_name": "rustfs/rustfs",
-   "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-   "language": "Rust",
-   "stars": 36233,
-   "forks": 1680,
-   "gained": 55,
+   "full_name": "kagent-dev/kagent",
+   "description": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
+   "language": "Go",
+   "stars": 4428,
+   "forks": 931,
+   "gained": 191,
    "appearances": [
     {
-     "period": "daily",
-     "language": "rust",
-     "rank": 9,
-     "gained": 55
+     "period": "weekly",
+     "language": "go",
+     "rank": 10,
+     "gained": 191
     }
    ]
   },
   {
-   "full_name": "HKUDS/AutoSwarm",
-   "description": "AutoSwarm: Unify All Your Agents. Break Context Barriers. Watch Them Work Together for You.",
-   "language": "Python",
-   "stars": 2634,
-   "forks": 437,
-   "gained": 53,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "python",
-     "rank": 13,
-     "gained": 53
-    }
-   ]
-  },
-  {
-   "full_name": "aimod-cc/Agent2API",
-   "description": "Local AI routing gateway with Agent client takeover — reuse existing client logins, call 50+ AI clients through one base URL, with unified OpenAI / Anthropic / Images APIs, multi-account routing, check-in, balance and request reports · 本地 AI 路由网关 + Agent 客户端接管：复用各家客户端登录态，一个 base_url 调用 50+ 家模型额度，统一 OpenAI / Anthropic / 生图接口，多账号选路、签到、余额与请求报表一体管理",
-   "language": "Rust",
-   "stars": 2476,
-   "forks": 678,
-   "gained": 51,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "rust",
-     "rank": 16,
-     "gained": 51
-    }
-   ]
-  },
-  {
-   "full_name": "PrimeIntellect-ai/prime-agent",
-   "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-   "language": "Rust",
-   "stars": 22807,
-   "forks": 2530,
-   "gained": 50,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "rust",
-     "rank": 5,
-     "gained": 50
-    }
-   ]
-  },
-  {
-   "full_name": "vstorm-co/agenticos",
-   "description": "Open-source, self-hosted AI agent platform for your company's AI teammates. Build, run and govern agents on your own servers and models: shared chat, RAG, skills, a real browser, 4,700+ MCP servers, budgets, approvals and an audit trail. An alternative to ChatGPT Enterprise and Grok Bot. Apache-2.0, built on Pydantic AI.",
-   "language": "Python",
-   "stars": 413,
-   "forks": 74,
-   "gained": 44,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "python",
-     "rank": 15,
-     "gained": 44
-    }
-   ]
-  },
-  {
-   "full_name": "leepokai/Codync",
-   "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
-   "language": "Rust",
-   "stars": 2228,
-   "forks": 228,
-   "gained": 43,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "rust",
-     "rank": 8,
-     "gained": 43
-    }
-   ]
-  },
-  {
-   "full_name": "karakeep-app/karakeep",
-   "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+   "full_name": "angular/angular",
+   "description": "Deliver web apps with confidence 🚀",
    "language": "TypeScript",
-   "stars": 30665,
-   "forks": 1659,
-   "gained": 40,
+   "stars": 101432,
+   "forks": 28187,
+   "gained": 182,
    "appearances": [
     {
      "period": "daily",
      "language": "typescript",
      "rank": 7,
-     "gained": 40
+     "gained": 182
     }
    ]
   },
   {
-   "full_name": "dotnet/aspnetcore",
-   "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+   "full_name": "zellij-org/zellij",
+   "description": "A terminal workspace with batteries included",
+   "language": "Rust",
+   "stars": 36139,
+   "forks": 1549,
+   "gained": 182,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "rust",
+     "rank": 4,
+     "gained": 182
+    }
+   ]
+  },
+  {
+   "full_name": "rust-lang/rust",
+   "description": "Empowering everyone to build reliable and efficient software.",
+   "language": "Rust",
+   "stars": 122170,
+   "forks": 16662,
+   "gained": 175,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "rust",
+     "rank": 13,
+     "gained": 175
+    }
+   ]
+  },
+  {
+   "full_name": "bojieli/ai-agent-book",
+   "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+   "language": "Python",
+   "stars": 58745,
+   "forks": 6884,
+   "gained": 163,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "python",
+     "rank": 15,
+     "gained": 163
+    }
+   ]
+  },
+  {
+   "full_name": "antithesishq/bombadil",
+   "description": "Property-based testing for web and terminal UIs",
+   "language": "Rust",
+   "stars": 2729,
+   "forks": 98,
+   "gained": 148,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "rust",
+     "rank": 8,
+     "gained": 148
+    }
+   ]
+  },
+  {
+   "full_name": "cli/cli",
+   "description": "GitHub’s official command line tool",
+   "language": "Go",
+   "stars": 47075,
+   "forks": 9424,
+   "gained": 147,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "go",
+     "rank": 9,
+     "gained": 147
+    }
+   ]
+  },
+  {
+   "full_name": "microsoft/PyRIT",
+   "description": "Open-source AI red teaming toolkit from Microsoft. Test generative AI systems with automated scans, adaptive multi-turn attacks, and a web UI.",
+   "language": "Python",
+   "stars": 4941,
+   "forks": 1083,
+   "gained": 146,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "python",
+     "rank": 10,
+     "gained": 146
+    }
+   ]
+  },
+  {
+   "full_name": "PowerShell/PowerShell",
+   "description": "PowerShell for every system!",
    "language": "C#",
-   "stars": 38535,
-   "forks": 11564,
-   "gained": 39,
+   "stars": 56234,
+   "forks": 8544,
+   "gained": 145,
    "appearances": [
     {
      "period": "weekly",
      "language": "c#",
-     "rank": 10,
-     "gained": 39
+     "rank": 4,
+     "gained": 145
+    }
+   ]
+  },
+  {
+   "full_name": "tauri-apps/tauri",
+   "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+   "language": "Rust",
+   "stars": 112940,
+   "forks": 4219,
+   "gained": 141,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "rust",
+     "rank": 14,
+     "gained": 141
     }
    ]
   },
@@ -2485,47 +1863,421 @@
    "full_name": "NVIDIA-NeMo/Switchyard",
    "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
    "language": "Rust",
-   "stars": 3639,
-   "forks": 375,
-   "gained": 38,
+   "stars": 3651,
+   "forks": 377,
+   "gained": 138,
    "appearances": [
     {
-     "period": "daily",
+     "period": "weekly",
      "language": "rust",
-     "rank": 6,
-     "gained": 38
+     "rank": 9,
+     "gained": 138
     }
    ]
   },
   {
-   "full_name": "dotnet/runtime",
-   "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
+   "full_name": "Viren070/AIOStreams",
+   "description": "AIOStreams brings your Stremio addons, debrid services and Usenet together into one list, filtered, sorted and formatted your way, and plays it in Stremio or in its own apps for every screen.",
+   "language": "TypeScript",
+   "stars": 3275,
+   "forks": 956,
+   "gained": 136,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "typescript",
+     "rank": 15,
+     "gained": 136
+    }
+   ]
+  },
+  {
+   "full_name": "kubernetes/kubernetes",
+   "description": "Production-Grade Container Scheduling and Management",
+   "language": "Go",
+   "stars": 129168,
+   "forks": 45088,
+   "gained": 135,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "go",
+     "rank": 13,
+     "gained": 135
+    }
+   ]
+  },
+  {
+   "full_name": "Devolutions/UniGetUI",
+   "description": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
    "language": "C#",
-   "stars": 18453,
-   "forks": 5821,
-   "gained": 34,
+   "stars": 27111,
+   "forks": 983,
+   "gained": 135,
    "appearances": [
     {
      "period": "weekly",
      "language": "c#",
-     "rank": 17,
-     "gained": 34
+     "rank": 11,
+     "gained": 135
     }
    ]
   },
   {
-   "full_name": "jlcodes99/cockpit-tools",
-   "description": "🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta",
+   "full_name": "huiyadanli/RevokeMsgPatcher",
+   "description": "A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）",
+   "language": "C#",
+   "stars": 39306,
+   "forks": 4115,
+   "gained": 134,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "c#",
+     "rank": 8,
+     "gained": 134
+    }
+   ]
+  },
+  {
+   "full_name": "ansible/ansible",
+   "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com .",
+   "language": "Python",
+   "stars": 71464,
+   "forks": 24460,
+   "gained": 133,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "python",
+     "rank": 16,
+     "gained": 133
+    }
+   ]
+  },
+  {
+   "full_name": "home-assistant/core",
+   "description": "🏡 Open source home automation that puts local control and privacy first.",
+   "language": "Python",
+   "stars": 92334,
+   "forks": 39359,
+   "gained": 130,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "python",
+     "rank": 14,
+     "gained": 130
+    }
+   ]
+  },
+  {
+   "full_name": "vxcontrol/pentagi",
+   "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+   "language": "Go",
+   "stars": 34574,
+   "forks": 5493,
+   "gained": 127,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "go",
+     "rank": 8,
+     "gained": 127
+    }
+   ]
+  },
+  {
+   "full_name": "umlx5h/LLPlayer",
+   "description": "The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!",
+   "language": "C#",
+   "stars": 4760,
+   "forks": 308,
+   "gained": 121,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "c#",
+     "rank": 14,
+     "gained": 121
+    }
+   ]
+  },
+  {
+   "full_name": "colbymchenry/codegraph",
+   "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+   "language": "TypeScript",
+   "stars": 78016,
+   "forks": 5206,
+   "gained": 119,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "typescript",
+     "rank": 10,
+     "gained": 119
+    }
+   ]
+  },
+  {
+   "full_name": "GoogleChrome/lighthouse",
+   "description": "Automated auditing, performance metrics, and best practices for the web.",
+   "language": "JavaScript",
+   "stars": 31157,
+   "forks": 9795,
+   "gained": 119,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "javascript",
+     "rank": 12,
+     "gained": 119
+    }
+   ]
+  },
+  {
+   "full_name": "saadeghi/daisyui",
+   "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
+   "language": "JavaScript",
+   "stars": 42896,
+   "forks": 1726,
+   "gained": 107,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "javascript",
+     "rank": 13,
+     "gained": 107
+    }
+   ]
+  },
+  {
+   "full_name": "trycua/cua",
+   "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
    "language": "Rust",
-   "stars": 20089,
-   "forks": 1823,
-   "gained": 33,
+   "stars": 32624,
+   "forks": 2459,
+   "gained": 101,
    "appearances": [
     {
      "period": "daily",
      "language": "rust",
+     "rank": 17,
+     "gained": 101
+    }
+   ]
+  },
+  {
+   "full_name": "ppy/osu",
+   "description": "rhythm is just a *click* away!",
+   "language": "C#",
+   "stars": 19483,
+   "forks": 2902,
+   "gained": 100,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "c#",
+     "rank": 3,
+     "gained": 100
+    }
+   ]
+  },
+  {
+   "full_name": "JCodesMore/ai-website-cloner-template",
+   "description": "Clone any website with one command using AI coding agents",
+   "language": "TypeScript",
+   "stars": 39471,
+   "forks": 5884,
+   "gained": 94,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "typescript",
+     "rank": 12,
+     "gained": 94
+    }
+   ]
+  },
+  {
+   "full_name": "SubtitleEdit/subtitleedit",
+   "description": "the subtitle editor :)",
+   "language": "C#",
+   "stars": 15049,
+   "forks": 1389,
+   "gained": 94,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "c#",
+     "rank": 15,
+     "gained": 94
+    }
+   ]
+  },
+  {
+   "full_name": "Wei-Shaw/sub2api",
+   "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+   "language": "Go",
+   "stars": 46277,
+   "forks": 10033,
+   "gained": 92,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "go",
+     "rank": 12,
+     "gained": 92
+    }
+   ]
+  },
+  {
+   "full_name": "QuantumNous/new-api",
+   "description": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
+   "language": "Go",
+   "stars": 52195,
+   "forks": 12735,
+   "gained": 80,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "go",
      "rank": 14,
-     "gained": 33
+     "gained": 80
+    }
+   ]
+  },
+  {
+   "full_name": "vercel/next.js",
+   "description": "The React Framework",
+   "language": "JavaScript",
+   "stars": 143570,
+   "forks": 32813,
+   "gained": 71,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "javascript",
+     "rank": 6,
+     "gained": 71
+    }
+   ]
+  },
+  {
+   "full_name": "Minglink/dsh-infinite-gen-5",
+   "description": "DeepSeek v4.1 flash 最强逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进",
+   "language": "JavaScript",
+   "stars": 4546,
+   "forks": 634,
+   "gained": 70,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "javascript",
+     "rank": 11,
+     "gained": 70
+    }
+   ]
+  },
+  {
+   "full_name": "Radarr/Radarr",
+   "description": "Movie organizer/manager for usenet and torrent users.",
+   "language": "C#",
+   "stars": 14820,
+   "forks": 1264,
+   "gained": 69,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "c#",
+     "rank": 6,
+     "gained": 69
+    }
+   ]
+  },
+  {
+   "full_name": "MiniMax-AI/skills",
+   "description": "",
+   "language": "C#",
+   "stars": 13872,
+   "forks": 1212,
+   "gained": 17,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "c#",
+     "rank": 2,
+     "gained": 17
+    },
+    {
+     "period": "weekly",
+     "language": "c#",
+     "rank": 10,
+     "gained": 66
+    }
+   ]
+  },
+  {
+   "full_name": "github/awesome-copilot",
+   "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+   "language": "JavaScript",
+   "stars": 41334,
+   "forks": 5388,
+   "gained": 61,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "javascript",
+     "rank": 12,
+     "gained": 61
+    }
+   ]
+  },
+  {
+   "full_name": "openutau/OpenUtau",
+   "description": "Open singing synthesis platform / Open source UTAU successor",
+   "language": "C#",
+   "stars": 4618,
+   "forks": 606,
+   "gained": 58,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "c#",
+     "rank": 16,
+     "gained": 58
+    }
+   ]
+  },
+  {
+   "full_name": "punkpeye/awesome-mcp-servers",
+   "description": "A collection of MCP servers.",
+   "language": "",
+   "stars": 98094,
+   "forks": 20364,
+   "gained": 53,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "any",
+     "rank": 19,
+     "gained": 53
+    }
+   ]
+  },
+  {
+   "full_name": "iOfficeAI/OfficeCLI",
+   "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+   "language": "C#",
+   "stars": 33438,
+   "forks": 2285,
+   "gained": 52,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "c#",
+     "rank": 12,
+     "gained": 52
     }
    ]
   },
@@ -2533,31 +2285,31 @@
    "full_name": "Autumn-27/ScopeSentry",
    "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
    "language": "Go",
-   "stars": 2498,
-   "forks": 627,
-   "gained": 29,
+   "stars": 2532,
+   "forks": 640,
+   "gained": 51,
    "appearances": [
     {
      "period": "daily",
      "language": "go",
      "rank": 11,
-     "gained": 29
+     "gained": 51
     }
    ]
   },
   {
-   "full_name": "ArvinLovegood/go-stock",
-   "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+   "full_name": "smtg-ai/claude-squad",
+   "description": "Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.",
    "language": "Go",
-   "stars": 8198,
-   "forks": 1431,
-   "gained": 27,
+   "stars": 8831,
+   "forks": 637,
+   "gained": 50,
    "appearances": [
     {
-     "period": "daily",
+     "period": "weekly",
      "language": "go",
-     "rank": 12,
-     "gained": 27
+     "rank": 7,
+     "gained": 50
     }
    ]
   },
@@ -2565,175 +2317,421 @@
    "full_name": "malisper/pgrust",
    "description": "Postgres rewritten in Rust, now faster than Postgres and Clickhouse",
    "language": "Rust",
-   "stars": 5859,
-   "forks": 233,
+   "stars": 5916,
+   "forks": 239,
+   "gained": 47,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "rust",
+     "rank": 16,
+     "gained": 47
+    }
+   ]
+  },
+  {
+   "full_name": "vercel/eve",
+   "description": "The Open Framework for Building Agents",
+   "language": "TypeScript",
+   "stars": 5997,
+   "forks": 665,
+   "gained": 42,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "typescript",
+     "rank": 16,
+     "gained": 42
+    }
+   ]
+  },
+  {
+   "full_name": "rustfs/rustfs",
+   "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+   "language": "Rust",
+   "stars": 36265,
+   "forks": 1682,
+   "gained": 42,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "rust",
+     "rank": 3,
+     "gained": 42
+    }
+   ]
+  },
+  {
+   "full_name": "TencentCloud/CubeSandbox",
+   "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+   "language": "Go",
+   "stars": 13364,
+   "forks": 1236,
+   "gained": 41,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "go",
+     "rank": 16,
+     "gained": 41
+    }
+   ]
+  },
+  {
+   "full_name": "solidjs/solid",
+   "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+   "language": "TypeScript",
+   "stars": 36636,
+   "forks": 1185,
+   "gained": 40,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "any",
+     "rank": 18,
+     "gained": 40
+    },
+    {
+     "period": "daily",
+     "language": "typescript",
+     "rank": 5,
+     "gained": 40
+    }
+   ]
+  },
+  {
+   "full_name": "qwdwqfwq/topconf-paper-figure-gallery",
+   "description": "3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting",
+   "language": "JavaScript",
+   "stars": 1894,
+   "forks": 93,
+   "gained": 39,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "javascript",
+     "rank": 9,
+     "gained": 39
+    }
+   ]
+  },
+  {
+   "full_name": "BurntSushi/ripgrep",
+   "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+   "language": "Rust",
+   "stars": 70052,
+   "forks": 3587,
+   "gained": 39,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "rust",
+     "rank": 5,
+     "gained": 39
+    }
+   ]
+  },
+  {
+   "full_name": "dotnet/aspnetcore",
+   "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+   "language": "C#",
+   "stars": 38533,
+   "forks": 11562,
+   "gained": 39,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "c#",
+     "rank": 12,
+     "gained": 39
+    }
+   ]
+  },
+  {
+   "full_name": "aquasecurity/trivy",
+   "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+   "language": "Go",
+   "stars": 39516,
+   "forks": 909,
+   "gained": 38,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "go",
+     "rank": 9,
+     "gained": 38
+    }
+   ]
+  },
+  {
+   "full_name": "leepokai/Codync",
+   "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
+   "language": "Rust",
+   "stars": 2263,
+   "forks": 232,
+   "gained": 35,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "rust",
+     "rank": 4,
+     "gained": 35
+    }
+   ]
+  },
+  {
+   "full_name": "odoo/odoo",
+   "description": "Odoo. Open Source Apps To Grow Your Business.",
+   "language": "Python",
+   "stars": 55915,
+   "forks": 34357,
+   "gained": 34,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "python",
+     "rank": 17,
+     "gained": 34
+    }
+   ]
+  },
+  {
+   "full_name": "ViceVerse-cz/Serein",
+   "description": "Tiny, Performant & 100% Native client for Discord made in Rust",
+   "language": "Rust",
+   "stars": 1438,
+   "forks": 142,
+   "gained": 33,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "rust",
+     "rank": 6,
+     "gained": 33
+    }
+   ]
+  },
+  {
+   "full_name": "kyverno/kyverno",
+   "description": "Unified Policy as Code",
+   "language": "Go",
+   "stars": 8362,
+   "forks": 1745,
+   "gained": 30,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "go",
+     "rank": 13,
+     "gained": 30
+    }
+   ]
+  },
+  {
+   "full_name": "gogs/gogs",
+   "description": "The painless way to host your own Git service",
+   "language": "Go",
+   "stars": 47948,
+   "forks": 5080,
+   "gained": 29,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "go",
+     "rank": 15,
+     "gained": 29
+    }
+   ]
+  },
+  {
+   "full_name": "Automattic/harper",
+   "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+   "language": "Rust",
+   "stars": 17845,
+   "forks": 845,
+   "gained": 28,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "rust",
+     "rank": 15,
+     "gained": 28
+    }
+   ]
+  },
+  {
+   "full_name": "stalwartlabs/stalwart",
+   "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+   "language": "Rust",
+   "stars": 16042,
+   "forks": 1058,
    "gained": 27,
    "appearances": [
     {
      "period": "daily",
      "language": "rust",
-     "rank": 11,
+     "rank": 10,
      "gained": 27
     }
    ]
   },
   {
-   "full_name": "seaweedfs/seaweedfs",
-   "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
-   "language": "Go",
-   "stars": 36130,
-   "forks": 3125,
+   "full_name": "pugarte7/spanish-top-tech-companies",
+   "description": "MCP con las mejores ofertas tech de España, para que tus agentes puedan aplicar por ti de forma automática.",
+   "language": "JavaScript",
+   "stars": 601,
+   "forks": 21,
    "gained": 25,
    "appearances": [
     {
      "period": "daily",
-     "language": "go",
-     "rank": 6,
+     "language": "javascript",
+     "rank": 10,
      "gained": 25
     }
    ]
   },
   {
-   "full_name": "google/ax",
-   "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
-   "language": "Go",
-   "stars": 14774,
-   "forks": 796,
+   "full_name": "openvinotoolkit/openvino",
+   "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+   "language": "C++",
+   "stars": 11369,
+   "forks": 3604,
    "gained": 24,
    "appearances": [
     {
      "period": "daily",
-     "language": "go",
-     "rank": 14,
+     "language": "any",
+     "rank": 13,
      "gained": 24
     }
    ]
   },
   {
-   "full_name": "Jeffallan/claude-skills",
-   "description": "67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
-   "language": "JavaScript",
-   "stars": 12428,
-   "forks": 1196,
+   "full_name": "storybookjs/storybook",
+   "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+   "language": "TypeScript",
+   "stars": 91639,
+   "forks": 10598,
    "gained": 23,
    "appearances": [
     {
      "period": "daily",
-     "language": "javascript",
-     "rank": 7,
+     "language": "typescript",
+     "rank": 11,
      "gained": 23
     }
    ]
   },
   {
-   "full_name": "mastra-ai/mastra",
-   "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
-   "language": "TypeScript",
-   "stars": 29587,
-   "forks": 3113,
-   "gained": 22,
+   "full_name": "Dodaios/Dodaios",
+   "description": "One workspace for everything you do with AI: Claude Code, Codex and seven more coding agents side by side, one assistant that runs them, voice, and docs. Open source, on your computer, on your own plans and keys. Formerly Personal Jarvis.",
+   "language": "Python",
+   "stars": 423,
+   "forks": 147,
+   "gained": 19,
    "appearances": [
     {
      "period": "daily",
-     "language": "typescript",
-     "rank": 12,
-     "gained": 22
+     "language": "python",
+     "rank": 13,
+     "gained": 19
     }
    ]
   },
   {
-   "full_name": "knadh/listmonk",
-   "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+   "full_name": "gtsteffaniak/filebrowser",
+   "description": "📂 Web File Browser",
    "language": "Go",
-   "stars": 24359,
-   "forks": 2807,
-   "gained": 22,
+   "stars": 9230,
+   "forks": 555,
+   "gained": 19,
    "appearances": [
     {
      "period": "daily",
      "language": "go",
-     "rank": 7,
-     "gained": 22
+     "rank": 10,
+     "gained": 19
     }
    ]
   },
   {
-   "full_name": "atuinsh/atuin",
-   "description": "✨ Making your shell magical",
+   "full_name": "screenpipe/screenpipe",
+   "description": "YC (S26) | Screenpipe finds the work worth automating | Continuously record computer work locally, discover recurring workflows, and hand the result to any agent you already use.",
    "language": "Rust",
-   "stars": 32510,
-   "forks": 1047,
-   "gained": 21,
+   "stars": 22450,
+   "forks": 2310,
+   "gained": 18,
    "appearances": [
     {
      "period": "daily",
      "language": "rust",
-     "rank": 10,
-     "gained": 21
+     "rank": 9,
+     "gained": 18
     }
    ]
   },
   {
-   "full_name": "dograh-hq/dograh",
-   "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
+   "full_name": "louis-e/arnis",
+   "description": "Generate any location from the real world in Minecraft with a high level of detail.",
+   "language": "Rust",
+   "stars": 18716,
+   "forks": 1588,
+   "gained": 18,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "rust",
+     "rank": 11,
+     "gained": 18
+    }
+   ]
+  },
+  {
+   "full_name": "anthropics/claude-code-security-review",
+   "description": "An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.",
    "language": "Python",
-   "stars": 6192,
-   "forks": 1595,
+   "stars": 7008,
+   "forks": 800,
    "gained": 17,
    "appearances": [
     {
      "period": "daily",
      "language": "python",
-     "rank": 9,
+     "rank": 11,
      "gained": 17
     }
    ]
   },
   {
-   "full_name": "HKUDS/RAG-Anything",
-   "description": "\"RAG-Anything: All-in-One RAG Framework\"",
-   "language": "Python",
-   "stars": 24606,
-   "forks": 2882,
+   "full_name": "SaladDay/cc-switch-cli",
+   "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
+   "language": "Rust",
+   "stars": 5536,
+   "forks": 381,
    "gained": 17,
    "appearances": [
     {
      "period": "daily",
-     "language": "python",
-     "rank": 12,
+     "language": "rust",
+     "rank": 2,
      "gained": 17
     }
    ]
   },
   {
-   "full_name": "Christ9038/Ydisks-Xianyu-Helper",
-   "description": "闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建",
-   "language": "Go",
-   "stars": 2465,
-   "forks": 656,
-   "gained": 16,
+   "full_name": "STranslate/STranslate",
+   "description": "A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具",
+   "language": "C#",
+   "stars": 8650,
+   "forks": 464,
+   "gained": 17,
    "appearances": [
     {
      "period": "daily",
-     "language": "go",
-     "rank": 9,
-     "gained": 16
-    }
-   ]
-  },
-  {
-   "full_name": "basketikun/chatgpt2api",
-   "description": "ChatGPT 官网接口纯协议逆向实现，Go 语言编写，高并发、低内存、高性能。指纹级请求还原，支持 GPT-Image-2.6 生图/改图、GIF 动图、文本模型与语音合成/转写，兼容 OpenAI 接口协议，在线批量生图，号池管理，支持导入 CPA、sub2api 号池，可接入 Cherry Studio、New API 等软件",
-   "language": "Go",
-   "stars": 6938,
-   "forks": 1756,
-   "gained": 16,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "go",
+     "language": "c#",
      "rank": 13,
-     "gained": 16
+     "gained": 17
     }
    ]
   },
@@ -2741,47 +2739,95 @@
    "full_name": "lay295/TwitchDownloader",
    "description": "Twitch VOD/Clip Downloader - Chat Download/Render/Replay",
    "language": "C#",
-   "stars": 4078,
-   "forks": 357,
-   "gained": 14,
+   "stars": 4093,
+   "forks": 362,
+   "gained": 16,
    "appearances": [
     {
      "period": "daily",
      "language": "c#",
-     "rank": 8,
+     "rank": 10,
+     "gained": 16
+    }
+   ]
+  },
+  {
+   "full_name": "gohugoio/hugo",
+   "description": "The world’s fastest framework for building websites.",
+   "language": "Go",
+   "stars": 90512,
+   "forks": 8542,
+   "gained": 15,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "go",
+     "rank": 15,
+     "gained": 15
+    }
+   ]
+  },
+  {
+   "full_name": "vllm-project/vllm-ascend",
+   "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+   "language": "Python",
+   "stars": 3108,
+   "forks": 2766,
+   "gained": 14,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "python",
+     "rank": 12,
      "gained": 14
     }
    ]
   },
   {
-   "full_name": "pnpm/pnpm",
-   "description": "Fast, disk space efficient package manager",
+   "full_name": "microsoft/edit",
+   "description": "We all edit.",
    "language": "Rust",
-   "stars": 37117,
-   "forks": 1990,
-   "gained": 12,
+   "stars": 14786,
+   "forks": 746,
+   "gained": 8,
    "appearances": [
     {
      "period": "daily",
      "language": "rust",
-     "rank": 12,
-     "gained": 12
+     "rank": 7,
+     "gained": 8
     }
    ]
   },
   {
-   "full_name": "TechnitiumSoftware/DnsServer",
-   "description": "Technitium DNS Server",
+   "full_name": "icsharpcode/ILSpy",
+   "description": ".NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!",
    "language": "C#",
-   "stars": 10395,
-   "forks": 826,
-   "gained": 9,
+   "stars": 27103,
+   "forks": 3845,
+   "gained": 8,
    "appearances": [
     {
      "period": "daily",
      "language": "c#",
-     "rank": 5,
-     "gained": 9
+     "rank": 7,
+     "gained": 8
+    }
+   ]
+  },
+  {
+   "full_name": "Unity-Technologies/unity-agent-plugin",
+   "description": "Unity plugin for third-party agent platforms",
+   "language": "C#",
+   "stars": 657,
+   "forks": 68,
+   "gained": 8,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "c#",
+     "rank": 9,
+     "gained": 8
     }
    ]
   },
@@ -2789,111 +2835,95 @@
    "full_name": "IvanMurzak/Unity-MCP",
    "description": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick setup. Efficient token usage, advanced tools. Any C# method may be turned into a tool by a single line. Works with Claude Code, Gemini, Copilot, Cursor and any other absolutely for free.",
    "language": "C#",
-   "stars": 4658,
+   "stars": 4664,
    "forks": 411,
-   "gained": 9,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "c#",
-     "rank": 7,
-     "gained": 9
-    }
-   ]
-  },
-  {
-   "full_name": "microsoft/semantic-kernel",
-   "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
-   "language": "C#",
-   "stars": 28787,
-   "forks": 4858,
-   "gained": 6,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "c#",
-     "rank": 4,
-     "gained": 6
-    }
-   ]
-  },
-  {
-   "full_name": "SakiRinn/LiveCaptions-Translator",
-   "description": "Lightweight and powerful real-time audio/speech translation tool based on Windows LiveCaptions.",
-   "language": "C#",
-   "stars": 4092,
-   "forks": 305,
-   "gained": 5,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "c#",
-     "rank": 9,
-     "gained": 5
-    }
-   ]
-  },
-  {
-   "full_name": "MudBlazor/MudBlazor",
-   "description": "Blazor Component Library based on Material Design principles. Do more with Blazor, utilizing CSS and keeping JavaScript to a bare minimum.",
-   "language": "C#",
-   "stars": 10675,
-   "forks": 1713,
-   "gained": 5,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "c#",
-     "rank": 10,
-     "gained": 5
-    }
-   ]
-  },
-  {
-   "full_name": "crossplane/crossplane",
-   "description": "The Cloud Native Control Plane",
-   "language": "Go",
-   "stars": 12251,
-   "forks": 1296,
-   "gained": 2,
-   "appearances": [
-    {
-     "period": "daily",
-     "language": "go",
-     "rank": 5,
-     "gained": 2
-    }
-   ]
-  },
-  {
-   "full_name": "WalletWasabi/WalletWasabi",
-   "description": "Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.",
-   "language": "C#",
-   "stars": 2637,
-   "forks": 652,
-   "gained": 0,
+   "gained": 8,
    "appearances": [
     {
      "period": "daily",
      "language": "c#",
      "rank": 11,
-     "gained": 0
+     "gained": 8
     }
    ]
   },
   {
-   "full_name": "umbraco/Umbraco-CMS",
-   "description": "Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.",
+   "full_name": "jasontaylordev/CleanArchitecture",
+   "description": "Clean Architecture Solution Template for ASP.NET Core",
    "language": "C#",
-   "stars": 5286,
-   "forks": 2955,
-   "gained": 0,
+   "stars": 20732,
+   "forks": 4300,
+   "gained": 7,
    "appearances": [
     {
      "period": "daily",
      "language": "c#",
-     "rank": 12,
-     "gained": 0
+     "rank": 3,
+     "gained": 7
+    }
+   ]
+  },
+  {
+   "full_name": "Prowlarr/Prowlarr",
+   "description": "Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.",
+   "language": "C#",
+   "stars": 7619,
+   "forks": 435,
+   "gained": 6,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "c#",
+     "rank": 5,
+     "gained": 6
+    }
+   ]
+  },
+  {
+   "full_name": "LibreHardwareMonitor/LibreHardwareMonitor",
+   "description": "Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.",
+   "language": "C#",
+   "stars": 9424,
+   "forks": 1061,
+   "gained": 6,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "c#",
+     "rank": 8,
+     "gained": 6
+    }
+   ]
+  },
+  {
+   "full_name": "dotnet/extensions",
+   "description": "This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.",
+   "language": "C#",
+   "stars": 3280,
+   "forks": 925,
+   "gained": 6,
+   "appearances": [
+    {
+     "period": "weekly",
+     "language": "c#",
+     "rank": 13,
+     "gained": 6
+    }
+   ]
+  },
+  {
+   "full_name": "dotnet/roslyn",
+   "description": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.",
+   "language": "C#",
+   "stars": 20788,
+   "forks": 4384,
+   "gained": 4,
+   "appearances": [
+    {
+     "period": "daily",
+     "language": "c#",
+     "rank": 6,
+     "gained": 4
     }
    ]
   }
